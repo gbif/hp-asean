@@ -8,7 +8,7 @@ dashboard:
       type: equals
       key: networkKey
       value: 2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6
-    charts: [iucnCounts, month, country, occurrenceSummary, dataQuality, taxa]
+    charts: [iucnCounts, month, country, dataQuality, occurrenceSummary, taxa]
 
     # Chart Legend Title at Home Page
     # dataQuality = Data richness
