@@ -8,7 +8,7 @@ dashboard:
       type: equals
       key: networkKey
       value: 2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6
-    charts: [iucnCounts, month, occurrenceSummary, country, taxa, iucn, , basisOfRecord, dataQuality]
+    charts: [iucnCounts, month, occurrenceSummary, country, taxa, iucn, basisOfRecord, dataQuality]
     # charts: [iucnCounts, month, occurrenceSummary, country, taxa, iucn, dataQuality, publisherKey]
 
     # By Kit Elloran : 18 July 2025
