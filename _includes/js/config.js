@@ -13,7 +13,8 @@ var siteConfig = {
   }, // Highlight Maps : Kit Elloran
   occurrence: { // Start Occurrence function
     occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS', 'DASHBOARD', 'CLUSTERS'],
-    highlightedFilters: ['q', 'country', 'taxonKey', 'year', 'datasetKey', 'occurrenceStatus', 'basisOfRecord', 'locality'],
+    //highlightedFilters: ['q', 'country', 'taxonKey', 'year', 'datasetKey', 'occurrenceStatus', 'basisOfRecord', 'locality'],
+    highlightedFilters: ["q", "country", "publishingCountry", "institutionKey", "collectionKey", "datasetKey", "taxonKey", "publishingOrg", "hostingOrganizationKey", "networkKey", "gadmGid", "institutionCode", "collectionCode", "recordNumber", "establishmentMeans", "sex", "lifeStage", "license", "basisOfRecord", "mediaType", "month", "continent", "protocol", "dwcaExtension", "iucnRedListCategory", "typeStatus", "issue", "occurrenceStatus", "projectId", "recordedById", "identifiedById", "occurrenceId", "organismId", "higherGeography", "eventId", "fieldNumber", "isInCluster", "isSequenced", "year", "coordinateUncertaintyInMeters", "depth", "organismQuantity", "relativeOrganismQuantity", "sampleSizeValue", "elevation", "catalogNumber", "preparations", "sampleSizeUnit", "locality", "waterBody", "stateProvince", "datasetId", "samplingProtocol", "verbatimScientificName", "recordedBy", "identifiedBy", "geometry", "eventDate"]
     rootPredicate: {
       "type": "and",
       "predicates": [
