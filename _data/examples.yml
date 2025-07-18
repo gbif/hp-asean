@@ -8,8 +8,11 @@ dashboard:
       type: equals
       key: networkKey
       value: 2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6
-    charts: [iucnCounts, month, country, taxa, iucn, dataQuality, occurrenceSummary, publisherKey]
+    charts: [iucnCounts, month, occurrenceSummary, country, taxa, iucn, dataQuality, publisherKey]
+    #charts: [iucnCounts, month, country, taxa, iucn, dataQuality, occurrenceSummary, publisherKey]
 
+    # By Kit Elloran : 18 July 2025
+    # SEQUENCE of CHARTS at Home Page Bottom
     # Chart Legend Title at Home Page
     # dataQuality = Data richness
     # iucnCount = IUCN Global Red List Category
@@ -17,3 +20,5 @@ dashboard:
     # month = Month
     # taxa = 'Default' Taxa
     # country = Country or area
+    # publisherKey = Publisher
+    # iucn = IUCN Red List Category
