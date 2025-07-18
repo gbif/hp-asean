@@ -61,7 +61,7 @@ useSharedLibrary: true
 algae:
   rootLang: en
   # latestPostLimit: 2
-  logo: assets/ACB-ASEAN-Logo.jpg     # Logo in navbar, will be displayed with 28px height /assets/images/logo/dashboardlogo2-2.png
+  logo: /assets/ACB-ASEAN-Logo.jpg     # Logo in navbar, will be displayed with 28px height /assets/images/logo/dashboardlogo2-2.png
   logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/      # /news/ Permalink of page using archive.html layout, required when using post categories
   style:
