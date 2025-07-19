@@ -6,13 +6,13 @@ dashboard:
   config: 
     predicate:
       type: equals
-      key: publishingCountryCode
-      value: BN, KH, ID, LA, MY, MM, PH, SG, TH, VN
+      # key: publishingCountryCode
+      # value: BN, KH, ID, LA, MY, MM, PH, SG, TH, VN
       # key: networkKey = Drived from OBIS
-      ### key: hostingOrganizationKey # = Derived from ACB IPT Datasets
+      key: hostingOrganizationKey # = Derived from ACB IPT Datasets
       # key: institutionKey
       # value: 2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6 = Drived from OBIS
-      ### value: a30d7f59-d3d4-4e89-97dc-de9cf837f591 # = Derived from ACB IPT Datasets
+      alue: a30d7f59-d3d4-4e89-97dc-de9cf837f591 # = Derived from ACB IPT Datasets
     charts: [iucnCounts, month, occurrenceSummary, dataQuality, country, continent, taxa, iucn, basisOfRecord]
     # charts: [iucn, license, basisOfRecord, year, synonyms, iucnCounts, country, continent, dwcaExtension, eventId, gadmGid, mediaType, networkKey, publisherKey, publishingCountryCode, protocol, sampleSizeUnit, samplingProtocol, typeStatus, waterBody, collectionCode, institutionCode, stateProvince, identifiedBy, recordedBy, establishmentMeans, month, preparations, datasetKey, taxa, occurrenceIssue, dataQuality, occurrenceSummary, collectionKey, institutionKey, catalogNumber]
     # By Kit Elloran : 18 July 2025
