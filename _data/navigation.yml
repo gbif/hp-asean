@@ -31,12 +31,12 @@
       href: /occurrence/search?taxonKey=367
     - text: Aves
       href: /occurrence/search?taxonKey=212
-    - text: Fish
-      href: /occurrence/search?q=Actinopterygii&taxonKey=121&taxonKey=44&taxonKey=587&taxonKey=4499&taxonKey=1153&taxonKey=8535&taxonKey=4274&taxonKey=7336&taxonKey=772&taxonKey=8517
     - text: Bacteria
       href: /occurrence/search?taxonKey=3
     - text: Crustaceans
       href: /occurrence/search?q=Crustaceans
+    - text: Fish
+      href: /occurrence/search?q=Actinopterygii&taxonKey=121&taxonKey=44&taxonKey=587&taxonKey=4499&taxonKey=1153&taxonKey=8535&taxonKey=4274&taxonKey=7336&taxonKey=772&taxonKey=8517
     - text: Fungi
       href: /occurrence/search?taxonKey=95
     - text: Insecta
