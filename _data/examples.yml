@@ -7,7 +7,7 @@ dashboard:
     predicate:
       type: equals
       key: publishingCountryCode
-      value: ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN"]
+      value: BN, KH, ID, LA, MY, MM, PH, SG, TH, VN
       # key: networkKey = Drived from OBIS
       ### key: hostingOrganizationKey # = Derived from ACB IPT Datasets
       # key: institutionKey
