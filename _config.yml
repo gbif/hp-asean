@@ -67,12 +67,12 @@ algae:
   style:
       #square: false               # Should corners be square or rounded
     colors:
-      primary: "#0092c3"            # Primary color of your brand. Use HEX code. Used for buttons and links
-      links: "#fa5e97"              # What color should links have. Use a HEX code. DEfault is primary color. 
+      primary: "#ff581d"            # Primary color of your brand. Use HEX code. Used for buttons and links
+      links: "#0092c3"              # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false     # If a headline is a link, then use the link color. Default is true. 
     navbar:                          # RELATED TO NAVIGATION BAR
       brandBackground: "#ff581d"     # Define a custom background for the logo/title in the top navigation bar
-      color: "#20a42c"               # What color should the navbar be?
+      color: "#ff581d"               # What color should the navbar be?
       # color: "#20a42c"               # What color should the navbar be?
      # hasWhiteText: true            # Should the text color be white?
 
