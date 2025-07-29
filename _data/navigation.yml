@@ -10,8 +10,8 @@
 #          href: /occurrence/search?q=Elasmobranchii
 #        - Myxini
 #          href: /occurrence/search?q=Myxini
-- text: Dash Facts
-  href: /dashfacts
+# - text: Dash Facts
+#  href: /dashfacts
 # - text: About
   # href: /about
 - text: ASEAN Species Collections
