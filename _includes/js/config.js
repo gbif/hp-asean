@@ -21,7 +21,7 @@ var siteConfig = {
         {
           "type": "in",
           "key": "country",
-          "values": ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "CH"]
+          "values": ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN"]
         },
         {
           "type": "equals",
