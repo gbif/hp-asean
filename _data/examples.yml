@@ -6,8 +6,8 @@ dashboard:
   config: 
     predicate:
       type: equals
-      # key: publishingCountryCode
-      # value: BN, KH, ID, LA, MY, MM, PH, SG, TH, VN
+      key: publishing_country
+      value: BN, KH, ID, LA, MY, MM, PH, SG, TH, VN
       # key: networkKey = D
       key: hostingOrganizationKey # = Derived from ACB IPT Datasets
       # key: institutionKey
