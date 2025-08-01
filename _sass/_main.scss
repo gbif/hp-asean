@@ -181,7 +181,7 @@ Home page styling.
   @extend .home;
   @extend .hasWhiteText;
 
-  color: rgba(0, 0, 0, 0.45);
+  color: rgba(0.45, 0, 0, 0.45);
   height: auto;
   min-height: calc(100vh - var(--navbar-height));
 
