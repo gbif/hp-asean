@@ -181,8 +181,8 @@ Home page styling.
   @extend .home;
   @extend .hasWhiteText;
 
-  /// color: rgba(0.45, 0, 0, 0.45);
-  color: #289422;
+  color: rgba(0, 0, 0, 0.45);
+  // color: #289422;
   height: auto;
   min-height: calc(100vh - var(--navbar-height));
 
@@ -191,7 +191,7 @@ Home page styling.
   }
 
   .home-feature-title {
-    color: white;
+    color: #289422;
     font-size: 54px;
     margin-bottom: 42px;
     font-weight: bold;
