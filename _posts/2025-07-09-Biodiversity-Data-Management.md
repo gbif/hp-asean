@@ -1,7 +1,7 @@
 ---
 title:  "Biodiversity Data Management"
 date:   2025-07-10
-categories: ["Getting started", "Jekyll"]
+## categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
 background: assets/images/BDM.png
 ---
