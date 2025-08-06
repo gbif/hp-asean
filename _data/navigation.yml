@@ -15,7 +15,7 @@
 # - text: About
   # href: /about
 - text: Home
-  href: /home
+  href: /
 - text: ASEAN Species Collections
   menu:
     - text: Species Occurrence Records
