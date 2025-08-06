@@ -1,3 +1,25 @@
+{% if page.include_pdf_export %}
+<button id="exportPDF">Export to PDF</button>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+
+<script>
+document.getElementById('exportPDF').addEventListener('click', function () {
+    const element = document.body; // Change to specific container if needed
+    const opt = {
+        margin:       0.5,
+        filename:     '{{ page.title | slugify }}.pdf',
+        image:        { type: 'jpeg', quality: 0.98 },
+        html2canvas:  { scale: 2 },
+        jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
+    };
+    html2pdf().set(opt).from(element).save();
+});
+</script>
+{% endif %}
+
+
 dashboard: 
   klass: dashboard
   #title: "Data"
