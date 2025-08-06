@@ -44,8 +44,8 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 # Code for exporting web page to PDF file and save to local drive
 ##### START #####
-title: "Export Page to PDF"
-include_pdf_export: true
+### title: "Export Page to PDF"
+### include_pdf_export: true
 ##### END #####
 
 algae.hideHelper: true
