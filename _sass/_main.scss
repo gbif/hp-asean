@@ -2,6 +2,12 @@ $link: #4787fb;
 
 @import "theme/_main";
 
+body, button, input, select, textarea {
+  font-family: 'Lato', sans-serif;
+//  font-family: 'Barlow Condensed', sans-serif;
+}
+
+
 // You can add additional styling here
 .navbar-item.navbar-logo {
   margin: 0 12px;
