@@ -506,6 +506,14 @@ table{
     }
 }
 
+article.feature {
+	flex: 0 0 350px;
+	border: none;
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.10);
+//	border-radius: 3px;
+	border-radius: 20px 20px 0 0;
+}
+
 /* ##### For Home Page Cards Configurations */
 
 .features {
