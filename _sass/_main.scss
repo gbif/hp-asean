@@ -340,3 +340,164 @@ News page styling.
   }
 }
 
+/* 
+START NEW CSS 
+Added By Kit Elloran 
+Date : 2025-08-08
+ASEAN Centre for Biodiversity
+*/
+
+$card-text-color: #0C0C0C;
+article.feature{
+    display: flex;
+    flex-direction: column;
+    padding: 1.5em;
+	-webkit-box-shadow: 0px 4px 6px 2px rgba(27, 27, 27, 0.11);
+    -moz-box-shadow: 0px 4px 6px 2px rgba(27, 27, 27, 0.11);
+    box-shadow: 0px 4px 6px 2px rgba(27, 27, 27, 0.11);
+    border-radius: 1em !important;
+    .feature-img{
+        border-radius: 1em !important;
+        overflow: hidden;
+    }
+    .feature-img img{
+        width: 100%;
+    }
+    .feature-title a{
+        font-size: 1em;
+        font-weight: 700;
+        color: $card-text-color;
+    }
+    a{
+        text-decoration: none;
+    }
+    .feature-content{
+        padding: 0;
+        padding-top: 1em !important;
+    }
+}
+/*
+section.splitBanner{
+    display: flex;
+    padding: 1.5em;
+    border-radius: 1em !important;
+    margin-bottom: 2em;
+	-webkit-box-shadow: 0px 4px 6px 2px rgba(27, 27, 27, 0.11);
+    -moz-box-shadow: 0px 4px 6px 2px rgba(27, 27, 27, 0.11);
+    box-shadow: 0px 4px 6px 2px rgba(27, 27, 27, 0.11);
+    .feature-img img{
+        width: 100%;
+    }
+*/
+    .feature-img{
+        width: 50%;
+        border-radius: 1em !important;
+        overflow: hidden;
+    }
+    .feature-content{
+        margin-left: 1em;
+        padding: 1em;
+    }
+    .feature-title a{
+        font-size: 1em;
+        font-weight: 700;
+        color: $card-text-color;
+    }
+    &.splitBanner--reverse{
+        flex-direction: row-reverse;
+        .feature-content{
+            margin-left: 0;
+            margin-right: 1em;
+        }
+    }
+}
+
+/* ### Navigation ### */
+$nav-text-color: #0C0C0C;
+$nav-item-bg: #E8E8E8;
+.navbar-start{
+    .navbar-link, .navbar-item{
+        color: $nav-text-color !important;
+    }
+    .navbar-link:not(.is-arrowless)::after{
+        border-color: $nav-text-color !important
+    }
+}
+.navbar-item.has-dropdown:focus .navbar-link, .navbar-item.has-dropdown:hover .navbar-link, .navbar-item.has-dropdown.is-active .navbar-link, a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, .navbar-link.is-active{
+    background-color: transparent;
+}
+.navbar-dropdown{
+	padding: 0;
+	border-radius: 0;
+    .navbar-item{
+        border-left: 4px solid transparent;
+        transform: all .25s;
+    }
+    .navbar-item:hover{
+        border-left: 4px solid $nav-text-color;
+        background-color: $nav-item-bg;
+    }
+}
+
+/* ### TABLE ### */
+$text-color: #0C0C0C;
+$btn-color: #ED6307;
+.table{
+    border-radius: 0 !important;
+    a{
+        color: $btn-color !important;
+        text-decoration: underline !important;
+    }
+    thead{
+        tr{
+            background-color: #C8C8C8 !important;
+            th{
+                color: $text-color !important;
+            }
+        }
+    }    
+    tbody{
+        tr{
+            td{
+                border: 1px solid #D5D5D5 !important;
+            }
+        }
+    }
+    tbody tr:last-of-type{
+        border-bottom: 0 !important;
+    }
+}
+table{
+    thead{
+        tr{
+            th{
+                color: $text-color !important;
+                div{
+                    button{
+                        color: $text-color !important;
+                    }
+                    div button{
+                        color: #ed6307 !important;
+                        margin-left: 1em !important;
+                    }
+
+                }
+            }
+        }
+    }
+    tbody{
+        tr{
+            td{
+                color: $text-color !important;
+                svg{
+                    color: $text-color !important;
+                }
+            }
+        }
+    }
+    .css-ozqw81:hover {
+        background-color: #ed6307;
+        border-color: #ed6307;
+        color: white;
+    }
+}
