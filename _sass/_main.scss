@@ -110,6 +110,7 @@ $link: #4787fb;
   }
 }
 
+/* ### FOR Home Page Cards ### */
 article.feature {
 	flex: 0 0 350px;
 	border: none;
@@ -117,6 +118,22 @@ article.feature {
 //	border-radius: 3px;
 	border-radius: 20px 20px 0 0;
 }
+
+.feature-img img, .feature-img video, .feature-img picture {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+}
+article, aside, figure, footer, header, hgroup, section {
+    display: block;
+}
+/* ### FOR Home Page Cards ### */
+
 
 /* ##################### */
 .postHeader .feature-img {
