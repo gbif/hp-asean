@@ -547,8 +547,7 @@ article.feature {
   margin-right: auto;
 }
 
-
-
+// Configuration for Cards in Home pge //
 $card-text-color: #0C0C0C;
 article.feature{
     display: flex;
@@ -567,7 +566,7 @@ article.feature{
 		// font-size: .75em;
     }
     .feature-img{
-        border-radius: 5em !important;
+        border-radius: .75em !important;
         overflow: hidden;
     }
     .feature-img img{
