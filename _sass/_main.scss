@@ -10,6 +10,7 @@ $link: #4787fb;
 .product {
   .feature-img {
     padding: 15px;
+	//padding: 0px;
     background-origin: content-box;
   }
 }
@@ -34,7 +35,7 @@ $link: #4787fb;
   }
 
   .feature-img {
-    border-radius: 50%;
+    border-radius: 25%;
     overflow: hidden;
     height: 300px;
     width: 300px;
@@ -104,16 +105,67 @@ $link: #4787fb;
   }
 }
 
+// Configurations for radius cards in home page 
 .features {
   article.feature {
-    border-radius: 4px;
+    // border-radius: 30px 0px;
+	border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
   }
 }
 
+/* ### FOR Home Page Cards ### */
+article.feature {
+	flex: 0 0 350px;
+	border: none;
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.10);
+	//	border-radius: 3px;
+	// border-radius: 15px;
+	//border-radius: 25px 25px 0 0;
+}
+
+.feature-img img, .feature-img video, .feature-img picture {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+}
+article, aside, figure, footer, header, hgroup, section {
+    display: block;
+}
+/* ### FOR Home Page Cards ### */
+
+/* ##################### */
+.postHeader .feature-img {
+	border: none;
+}
+.feature .feature-img {
+    border-bottom: none;
+}
+.has-8-elements .feature-pre-title {
+	background: rgba(0,0,0,0.25);
+	position: absolute;
+	top: -225px;
+	left: -15px;
+	border-radius: 15px;
+	font-size: 0.8em;
+	padding: 3px 12px;
+	//box-shadow: 0px 0px 10px rgba(0,0,0,0.10);
+	color: white;
+	font-size: x-small;
+	font-weight: 600;
+}
+/* ############### 08-08-2025 */
+
 /*
 About page styling.
- */
-
+*/
 .about-data {
   flex-direction: row-reverse;
 }
@@ -130,8 +182,7 @@ About page styling.
 
 /*
 Resources page styling.
- */
-
+*/
 .resource-dashboard-container {
   display: flex;
   margin-top: 20px;
@@ -175,13 +226,14 @@ Resources page styling.
 
 /*
 Home page styling.
- */
+*/
 .home_main {
   @extend .floatingHero;
   @extend .home;
   @extend .hasWhiteText;
 
   color: rgba(0, 0, 0, 0.45);
+  // color: #289422;
   height: auto;
   min-height: calc(100vh - var(--navbar-height));
 
@@ -201,15 +253,14 @@ Home page styling.
     font-size: 32px;
     font-weight: bold;
   }
-
+  
   #home-feature-subtitle-count {
     display: none;
-
     span {
       color: white;
     }
   }
-
+  
   .home-search-wrapper {
     display: flex;
     justify-content: center;
@@ -308,3 +359,162 @@ News page styling.
     }
   }
 }
+
+/* ### Navigation ### */
+/* For Dropdown menu */
+$nav-text-color: #0c0c0c;
+$nav-item-bg: #E8E8E8;
+.navbar-start{
+    .navbar-link, .navbar-item{
+        color: $nav-text-color !important;
+    }
+    .navbar-link:not(.is-arrowless)::after{
+        border-color: $nav-text-color !important
+    }
+}
+.navbar-item.has-dropdown:focus .navbar-link, .navbar-item.has-dropdown:hover .navbar-link, .navbar-item.has-dropdown.is-active .navbar-link, a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, .navbar-link.is-active{
+    background-color: transparent;
+}
+.navbar-dropdown{
+	padding: 0;
+	border-radius: 0;
+    .navbar-item{
+        border-left: 4px solid transparent;
+        transform: all .25s;
+    }
+    .navbar-item:hover{
+        border-left: 4px solid $nav-text-color;
+        background-color: $nav-item-bg;
+    }
+}
+/* ### Navigation ### */
+/* For Dropdown menu */
+
+
+/* ### TABLE ### */
+$text-color: #0C0C0C;
+$btn-color: #ED6307;
+.table{
+    border-radius: 0 !important;
+    a{
+        color: $btn-color !important;
+        text-decoration: underline !important;
+    }
+    thead{
+        tr{
+            background-color: #C8C8C8 !important;
+            th{
+                color: $text-color !important;
+            }
+        }
+    }    
+    tbody{
+        tr{
+            td{
+                border: 1px solid #D5D5D5 !important;
+            }
+        }
+    }
+    tbody tr:last-of-type{
+        border-bottom: 0 !important;
+    }
+}
+table{
+    thead{
+        tr{
+            th{
+                color: $text-color !important;
+                div{
+                    button{
+                        color: $text-color !important;
+                    }
+                    div button{
+                        color: #ed6307 !important;
+                        margin-left: 1em !important;
+                    }
+
+                }
+            }
+        }
+    }
+    tbody{
+        tr{
+            td{
+                color: $text-color !important;
+                svg{
+                    color: $text-color !important;
+                }
+            }
+        }
+    }
+    .css-ozqw81:hover {
+        background-color: #ed6307;
+        border-color: #ed6307;
+        color: white;
+    }
+}
+/* ##### For Home Page Cards Configurations */
+
+.features {
+  background-attachment: fixed;
+  background-color: #FFFFFF;
+}
+
+.content figure, .feature-content figure, .content figure:not(:last-child), .feature-content figure:not(:last-child) {
+  margin-bottom: 0em;
+  margin-top: 0em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 
+START NEW CSS 
+Added By Kit Elloran 
+Date : 2025-08-08
+ASEAN Centre for Biodiversity
+*/
+
+// Configuration for Cards in Home pge //
+/*
+$card-text-color: #0C0C0C;
+article.feature{
+    display: flex;
+    flex-direction: column;
+    padding: 1.5em;
+	-webkit-box-shadow: 0px 4px 6px 2px rgba(27, 27, 27, 0.11);
+    -moz-box-shadow: 0px 4px 6px 2px rgba(27, 27, 27, 0.11);
+    box-shadow: 0px 4px 6px 2px rgba(27, 27, 27, 0.11);
+    border-radius: .20em !important;
+    h3{
+        font-size: 1.3em;
+		// font-size: 1em;
+    }
+    p{
+        font-size: .95em;
+		// font-size: .75em;
+    }
+    .feature-img{
+        border-radius: .20em !important;
+        overflow: hidden;
+    }
+    .feature-img img{
+        width: 100%;
+    }
+    .feature-title a{
+        font-size: 1em;
+        font-weight: 700;
+        color: $card-text-color;
+    }
+    a{
+        text-decoration: none;
+    }
+    .feature-pre-title{
+        font-size: .75rem;
+        opacity: .5;
+    }
+    .feature-content{
+        padding: 0;
+        padding-top: 1em !important;
+    }
+}
+*/
