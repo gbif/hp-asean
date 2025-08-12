@@ -117,7 +117,7 @@ article.feature {
 	border: none;
 	box-shadow: 0px 0px 15px rgba(0,0,0,0.10);
 //	border-radius: 3px;
-	border-radius: 10px;
+	border-radius: 15px;
 	// border-radius: 10px 10px 0 0;
 }
 
@@ -452,10 +452,8 @@ table{
 /* ##### For Home Page Cards Configurations */
 
 .features {
-  // background-image: url('/assets/images/carlo_test_2a1.png');
-  // background-size: cover;
-  background-attachment: fixed; // Imagen fija, que no se duplique para ocupar el espacio
-  background-color: #FFFFFF // Fondo blanco
+  background-attachment: fixed;
+  background-color: #FFFFFF;
 }
 
 .content figure, .feature-content figure, .content figure:not(:last-child), .feature-content figure:not(:last-child) {
