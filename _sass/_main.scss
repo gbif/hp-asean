@@ -9,7 +9,7 @@ $link: #4787fb;
 
 .product {
   .feature-img {
-    padding: 150px;
+    padding: 15px;
 	//padding: 0px;
     background-origin: content-box;
   }
@@ -136,7 +136,6 @@ article, aside, figure, footer, header, hgroup, section {
 }
 /* ### FOR Home Page Cards ### */
 
-
 /* ##################### */
 .postHeader .feature-img {
 	border: none;
@@ -161,8 +160,7 @@ article, aside, figure, footer, header, hgroup, section {
 
 /*
 About page styling.
- */
-
+*/
 .about-data {
   flex-direction: row-reverse;
 }
@@ -179,8 +177,7 @@ About page styling.
 
 /*
 Resources page styling.
- */
-
+*/
 .resource-dashboard-container {
   display: flex;
   margin-top: 20px;
@@ -224,7 +221,7 @@ Resources page styling.
 
 /*
 Home page styling.
- */
+*/
 .home_main {
   @extend .floatingHero;
   @extend .home;
@@ -452,15 +449,6 @@ table{
         color: white;
     }
 }
-
-article.feature {
-	flex: 0 0 350px;
-	border: none;
-	box-shadow: 0px 0px 15px rgba(0,0,0,0.10);
-//	border-radius: 3px;
-	border-radius: 10px 10px 0 0;
-}
-
 /* ##### For Home Page Cards Configurations */
 
 .features {
