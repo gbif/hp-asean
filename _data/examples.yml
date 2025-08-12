@@ -5,7 +5,7 @@ dashboard:
     Data mobilised by ASEAN Region
   config: 
     # predicate # when not defined it will fall back to the site config
-    charts: [iucnCounts, month, occurrenceSummary, dataQuality, country, continent, taxa, iucn, institutionCode, basisOfRecord]
+    charts: [iucnCounts, month, occurrenceSummary, dataQuality, country, continent, taxa, iucn, institutionCode, basisOfRecord, year, mediaType]
     # charts: [iucn, license, basisOfRecord, year, synonyms, iucnCounts, country, continent, dwcaExtension, eventId, gadmGid, mediaType, networkKey, publisherKey, publishingCountryCode, protocol, sampleSizeUnit, samplingProtocol, typeStatus, waterBody, collectionCode, institutionCode, stateProvince, identifiedBy, recordedBy, establishmentMeans, month, preparations, datasetKey, taxa, occurrenceIssue, dataQuality, occurrenceSummary, collectionKey, institutionKey, catalogNumber]
     # By Kit Elloran : 18 July 2025
     # SEQUENCE of CHARTS at Home Page Bottom
