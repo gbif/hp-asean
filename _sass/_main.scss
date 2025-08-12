@@ -9,8 +9,8 @@ $link: #4787fb;
 
 .product {
   .feature-img {
-    //padding: 15px;
-	  padding: 0px;
+    padding: 15px;
+	//padding: 0px;
     background-origin: content-box;
   }
 }
@@ -503,7 +503,7 @@ article.feature{
 		// font-size: .75em;
     }
     .feature-img{
-        border-radius: .50em !important;
+        border-radius: .20em !important;
         overflow: hidden;
     }
     .feature-img img{
