@@ -5,7 +5,7 @@ composition:
    # data: home.main
     # href: https://dashboard.aseanbiodiversity.org/
   - type: latestPosts
-    data: home.latest
+    data: home
     height: 50vh
 # blueprint_with_video:
   # klass: home_video
@@ -91,7 +91,7 @@ main:
     </script>
 
     <div class="feature-img">
-        <img src="assets/images/Soe Mg Mg Zaw_Father Love 2.jpg">
+        <img height="50%" src="assets/images/Soe Mg Mg Zaw_Father Love 2.jpg">
         <div class="feature-img-license">
             <div class="feature-img-license-c">
                 <span class="icon"><i class="fa fa-info-circle"></i></span>
