@@ -17,7 +17,7 @@ composition:
     data: home.blueprint_with_video
   - type: latestPosts
     data: home.latest
-    height: 50vh
+    height: 25vh
   - type: dashboard
     data: examples.dashboard
 ---
