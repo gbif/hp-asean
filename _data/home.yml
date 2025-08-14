@@ -26,6 +26,7 @@ composition:
 
 main:
   klass: home_main
+  height: 50vh
   # this is based on the hero image block
   # Previous version of search : # document.getElementById("home-search-form").action = "/specimen/search";
   markdownContent: |
