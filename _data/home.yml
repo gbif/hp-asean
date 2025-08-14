@@ -91,7 +91,7 @@ main:
     </script>
 
     <div class="feature-img">
-        <img height="50%" src="assets/images/Soe Mg Mg Zaw_Father Love 2.jpg">
+        <img src="assets/images/Soe Mg Mg Zaw_Father Love 2.jpg" height="250">
         <div class="feature-img-license">
             <div class="feature-img-license-c">
                 <span class="icon"><i class="fa fa-info-circle"></i></span>
