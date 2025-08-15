@@ -84,6 +84,7 @@
 #- text: News
   # href: /news
 - text: FAQs
-  href: /faq
+  href: https://dashboard.aseanbiodiversity.org/dashfacts/
+  #href: /faq
 - text: Contact Us
   href: /contact
