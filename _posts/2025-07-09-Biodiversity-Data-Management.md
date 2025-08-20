@@ -7,4 +7,4 @@ background: assets/images/BDM.png
 ---
 Know more about Biodiversity Data Management
 
-Join in the "[Google Classroom](https://classroom.google.com/c/Nzg3MjI3Njk1NDk1?cjc=6tmlbmjk)" to get started with your online class
+Register in the "[Google Classroom](https://classroom.google.com/c/Nzg3MjI3Njk1NDk1?cjc=6tmlbmjk)" to get started with your online class
