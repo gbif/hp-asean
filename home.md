@@ -21,3 +21,23 @@ composition:
   - type: dashboard
     data: examples.dashboard
 ---
+
+Here’s a random image on each refresh:
+
+<div id="random-image"></div>
+
+<script>
+  // Load images from Jekyll YAML
+  const images = [
+    {% for img in site.data.images.images %}
+      "{{ img }}"{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
+
+  // Pick random image
+  const randomImage = images[Math.floor(Math.random() * images.length)];
+
+  // Render it
+  document.getElementById("random-image").innerHTML =
+    `<img src="${randomImage}" alt="Random Image" style="max-width:100%;border-radius:8px;">`;
+</script>
