@@ -5,10 +5,10 @@
 #   caption: use the "Suggested attribution" associated with the image on the GBIF occurrence, but keep links to the site when possible.
 
 images:
-  - /assets/images/Daniel Ocampo_Resting Sea turtle.jpg
-  - /assets/images/ERIC CLAIRE T. SELPA_The Mindanao Flying Frog.jpg
-  - /assets/images/Ho Phooi Leng_I believe I can fly.jpg
-  - /assets/images/Jerian Dale Figueroa_Wild ride.jpg
+  src: assets/images/Daniel Ocampo_Resting Sea turtle.jpg
+  src: assets/images/ERIC CLAIRE T. SELPA_The Mindanao Flying Frog.jpg
+  src: assets/images/Ho Phooi Leng_I believe I can fly.jpg
+  src: assets/images/Jerian Dale Figueroa_Wild ride.jpg
 
 amphibia:
   src: assets/taxontn/amphibians.png
