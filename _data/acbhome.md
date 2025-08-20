@@ -6,7 +6,7 @@ composition:
     # href: https://dashboard.aseanbiodiversity.org/
   - type: latestPosts
     data: home
-    height: 50vh
+    height: 25vh
 # blueprint_with_video:
   # klass: home_video
   # this is based on the product block
