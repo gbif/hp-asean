@@ -7,4 +7,4 @@ background: assets/images/BIGAD.jpg
 ---
 Know more about Biodiversity Informatics and Geospatial Analysis
 
-Read more in the "[Getting started guide for authors](https://github.com/gbif/hosted-portals/blob/main/getting-started/for-authors.md)" to get started with your new website
+Register in the "[Google Classroom](https://classroom.google.com/c/NzgyMjc5NzkyNDE3?cjc=vyohcknz)" to get started with your online class
