@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Tarutao National Park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "REP_AREA": 1490.0, "ISO3": "THA", "AHPSITEID": 11, "AHPNAME": "Tarutao National Park", "YR_DEC": "1984", "OFF_AREA": 149000.0, "CLASS": 2, "C_Desc": "Coastal and/or Marine", "GIS_Has": 143083.92185399999 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 99.751848288826082, 6.504447857981346 ], [ 99.15102308451209, 6.453502680986284 ], [ 99.142205922369101, 6.579656666561337 ], [ 99.568043653589342, 6.715229240866718 ], [ 99.595394128140612, 6.755109645793357 ], [ 99.726412439453981, 6.738212088041295 ], [ 99.751848288826082, 6.504447857981346 ] ] ] ] } }
+]
+}

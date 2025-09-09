@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Turtle Islands Wildlife Sanctuary",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "REP_AREA": 2429.58, "ISO3": "PHL", "AHPSITEID": 60, "AHPNAME": "Turtle Islands Wildlife Sanctuary", "YR_DEC": "2024", "OFF_AREA": 0.0, "CLASS": 2, "C_Desc": "Coastal and/or Marine", "GIS_Has": 241414.69232500001 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 118.629755067995262, 6.157718777602792 ], [ 118.631119748150724, 5.999806393895914 ], [ 118.339731027551593, 5.997399019075075 ], [ 117.969236300113494, 6.281739792850678 ], [ 117.967383393686006, 6.471289511931611 ], [ 118.097124427327785, 6.472561074050874 ], [ 118.223943306029071, 6.380413425092356 ], [ 118.385047091827957, 6.368936613569775 ], [ 118.458034182786619, 6.345146086091882 ], [ 118.60896838469742, 6.231148875154204 ], [ 118.629755067995262, 6.157718777602792 ] ] ] ] } }
+]
+}
