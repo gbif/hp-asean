@@ -3,7 +3,9 @@ dashboard:
   #title: "Data"
   description: |
     <b>Data mobilised by 10 ASEAN Region</b>
+    <p>
     Brunei Darussalam | Cambodia | Indonesia | Lao PDR | Malaysia | Myanmar | Philippines | Singapore | Thailand | Viet Nam
+    </p>
   config: 
     # predicate # when not defined it will fall back to the site config
     charts: [iucnCounts, month, occurrenceSummary, dataQuality, mediaType, year, country, continent, taxa, iucn, institutionCode, publishingCountryCode, datasetKey, basisOfRecord]
