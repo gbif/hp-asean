@@ -2,8 +2,8 @@ dashboard:
   klass: dashboard
   #title: "Data"
   description: |
-    <b>Data mobilised by 10 ASEAN Region</b>
-    <p>
+    <b>Data mobilised by 10 ASEAN Countries</b>
+    <p size="10">
     Brunei Darussalam | Cambodia | Indonesia | Lao PDR | Malaysia | Myanmar | Philippines | Singapore | Thailand | Viet Nam
     </p>
   config: 
