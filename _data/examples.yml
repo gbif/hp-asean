@@ -3,9 +3,17 @@ dashboard:
   #title: "Data"
   description: |
     <b>Data mobilised by 10 ASEAN Countries</b>
-    <p style="font-family:arial; font-size:100%;">
-    <a href="https://..." target="_blank">Brunei Darussalam </a>
-    | Cambodia | Indonesia | Lao PDR | Malaysia | Myanmar | Philippines | Singapore | Thailand | Viet Nam
+    <p style="font-family:arial; font-size:15;">
+    <a href="https://..." target="_blank">Brunei Darussalam </a> |
+    <a href="https://..." target="_blank">Cambodia </a> | 
+    <a href="https://..." target="_blank">Indonesia </a> | 
+    <a href="https://..." target="_blank">Lao PDR </a> | 
+    <a href="https://..." target="_blank">Malaysia</a> | 
+    <a href="https://..." target="_blank">Myanmar </a> | 
+    <a href="https://..." target="_blank">Philippines </a> | 
+    <a href="https://..." target="_blank">Singapore </a> | 
+    <a href="https://..." target="_blank">Thailand </a> | 
+    <a href="https://..." target="_blank">Viet Nam </a>
     </p>
   config: 
     # predicate # when not defined it will fall back to the site config
