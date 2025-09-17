@@ -4,7 +4,8 @@ dashboard:
   description: |
     <b>Data mobilised by 10 ASEAN Countries</b>
     <p style="font-family:arial; font-size:100%;">
-    Brunei Darussalam | Cambodia | Indonesia | Lao PDR | Malaysia | Myanmar | Philippines | Singapore | Thailand | Viet Nam
+    <a href="https://..." target="_blank">Brunei Darussalam </a>
+    | Cambodia | Indonesia | Lao PDR | Malaysia | Myanmar | Philippines | Singapore | Thailand | Viet Nam
     </p>
   config: 
     # predicate # when not defined it will fall back to the site config
