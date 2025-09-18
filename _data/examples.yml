@@ -4,7 +4,7 @@ dashboard:
   description: |
     <b style="font-family:arial; font-size:24;">Data mobilised by 10 ASEAN Countries</b>
     <p style="font-family:arial; font-size:15;">
-    <a href="https://..." target="_blank">Brunei Darussalam </a> |
+    <a href="/occurrence/search?country=BN" target="_blank">Brunei Darussalam </a> |
     <a href="https://..." target="_blank">Cambodia </a> | 
     <a href="https://..." target="_blank">Indonesia </a> | 
     <a href="https://..." target="_blank">Lao PDR </a> | 
