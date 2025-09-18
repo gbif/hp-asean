@@ -5,15 +5,15 @@ dashboard:
     <b style="font-family:arial; font-size:24;">Data mobilised by 10 ASEAN Countries</b>
     <p style="font-family:arial; font-size:15;">
     <a href="/occurrence/search?country=BN" target="_blank">Brunei Darussalam </a> |
-    <a href="https://..." target="_blank">Cambodia </a> | 
-    <a href="https://..." target="_blank">Indonesia </a> | 
-    <a href="https://..." target="_blank">Lao PDR </a> | 
-    <a href="https://..." target="_blank">Malaysia</a> | 
-    <a href="https://..." target="_blank">Myanmar </a> | 
-    <a href="https://..." target="_blank">Philippines </a> | 
-    <a href="https://..." target="_blank">Singapore </a> | 
-    <a href="https://..." target="_blank">Thailand </a> | 
-    <a href="https://..." target="_blank">Viet Nam </a>
+    <a href="/occurrence/search?country=KH" target="_blank">Cambodia </a> | 
+    <a href="/occurrence/search?country=ID" target="_blank">Indonesia </a> | 
+    <a href="/occurrence/search?country=LA" target="_blank">Lao PDR </a> | 
+    <a href="/occurrence/search?country=MY" target="_blank">Malaysia</a> | 
+    <a href="/occurrence/search?country=MM" target="_blank">Myanmar </a> | 
+    <a href="/occurrence/search?country=PH" target="_blank">Philippines </a> | 
+    <a href="/occurrence/search?country=SG" target="_blank">Singapore </a> | 
+    <a href="/occurrence/search?country=TH" target="_blank">Thailand </a> | 
+    <a href="/occurrence/search?country=VN" target="_blank">Viet Nam </a>
     </p>
   config: 
     # predicate # when not defined it will fall back to the site config
