@@ -4,6 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 
 # This project is open source. See `_data/footer.yml` to customize the footer.
+# Updated by Kit Elloran : 8 October 2025
 columns:
   - name: Resources
     links: 
