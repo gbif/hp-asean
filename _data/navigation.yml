@@ -75,6 +75,8 @@
       href: /occurrence/search?country=SG
     - text: Thailand
       href: /occurrence/search?country=TH
+    - text: Timor-Leste
+      href: /occurrence/search?country=TL
     - text: Vietnam
       href: /occurrence/search?country=VN
 - text: Tools
