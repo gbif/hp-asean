@@ -13,6 +13,7 @@ dashboard:
     <a href="/occurrence/search?country=PH" target="_blank">Philippines </a> | 
     <a href="/occurrence/search?country=SG" target="_blank">Singapore </a> | 
     <a href="/occurrence/search?country=TH" target="_blank">Thailand </a> | 
+    <a href="/occurrence/search?country=TL" target="_blank">Timor-Leste </a> |
     <a href="/occurrence/search?country=VN" target="_blank">Viet Nam </a>
     </p>
   config: 
