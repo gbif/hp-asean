@@ -5,23 +5,180 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 });
 
 var siteConfig = {
-  version: 2,
-  routes: {
-    alwaysUseHrefs: true, // Update - there now is translations. since the site isn't translated we can use push for now. if true, then we will always use hrefs, if false we will use onClick events and push state to the history. I've added this because I just realize that the language picker doesn't work with pushState as the url of the translated site is not updated with the new url
-    //enabledRoutes: ['occurrenceSearch', 'literatureSearch'],
-    enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'institutionSearch', 'institutionKey', 'literatureSearch'],
-  }, // Highlight Maps : Kit Elloran
-  occurrence: { // Start Occurrence function
-    occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'DATASETS', 'DASHBOARD', 'CLUSTERS'],
-    highlightedFilters: ['q', 'country', 'taxonKey', 'year', 'datasetKey', 'occurrenceStatus', 'basisOfRecord', 'locality', 'geometry'],
-    //highlightedFilters: ['q', 'country', 'publishingCountry', 'institutionKey', 'collectionKey', 'datasetKey', 'taxonKey', 'publishingOrg', 'hostingOrganizationKey', 'networkKey', 'gadmGid', 'institutionCode', 'collectionCode', 'recordNumber', 'establishmentMeans', 'sex', 'lifeStage', 'license', 'basisOfRecord', 'mediaType', 'month', 'continent', 'protocol', 'dwcaExtension', 'iucnRedListCategory', 'typeStatus', 'issue', 'occurrenceStatus', 'projectId', 'recordedById', 'identifiedById', 'occurrenceId', 'organismId', 'higherGeography', 'eventId', 'fieldNumber', 'isInCluster', 'isSequenced', 'year', 'coordinateUncertaintyInMeters', 'depth', 'organismQuantity', 'relativeOrganismQuantity', 'sampleSizeValue', 'elevation', 'catalogNumber', 'preparations', 'sampleSizeUnit', 'locality', 'waterBody', 'stateProvince', 'datasetId', 'samplingProtocol', 'verbatimScientificName', 'recordedBy', 'identifiedBy', 'geometry', 'eventDate']
-    rootPredicate: {
+  "version": 3,
+  "pages": [
+    {
+      "id": "occurrenceSearch"
+    },
+    {
+      "id": "collectionSearch"
+    },
+    {
+      "id": "collectionKey"
+    },
+    {
+      "id": "institutionSearch"
+    },
+    {
+      "id": "institutionKey"
+    },
+    {
+      "id": "literatureSearch"
+    }
+  ],
+  "disableInlineTableFilterButtons": false,
+  "availableCatalogues": [
+    "OCCURRENCE"
+  ],
+  "dataHeader": {
+    "enableApiPopup": false,
+    "enableInfoPopup": false
+  },
+  "theme": {
+    "primary": "#ff581d",
+    "borderRadius": 3,
+    "stickyOffset": "0px",
+    iucnColors: { // these are the official IUCN colors for the Red List categories according to their website. 
+      "NA": "#C1B5A5",
+      "NE": "#FFFFFF",
+      "DD": "#D1D1C6",
+      "CD": '#D1628E',
+      "LR": '#D1628E',
+      "LC": "#60C659",
+      "NT": "#CCE226",
+      "VU": "#F9E814",
+      "EN": "#FC7F3F",
+      "CR": "#D81E05",
+      "RE": "#9B4F96",
+      "EW": "#542344",
+      "EX": "#000000"
+    }
+  },
+  "maps": {
+    "mapStyles": {
+      "defaultProjection": "MERCATOR",
+      "defaultMapStyle": "BRIGHT",
+      "options": {
+        "MERCATOR": [
+          "BRIGHT",
+          "NATURAL"
+        ]
+      }
+    }
+  },
+  "languages": [
+    {
+      "code": "en",
+      "localeCode": "en",
+      "label": "English",
+      "default": true,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "mm",
+      "localeCode": "es",
+      "label": "Burmese",
+      "default": false,
+      "textDirection": "ltr",
+      "cmsLocale": "es",
+      "vocabularyLocale": "es-ES",
+      "iso3LetterCode": "spa",
+      "gbifOrgLocalePrefix": "/es",
+      "grSciCollLocalePrefix": "/es",
+      "mapTileLocale": "es"
+    },
+    {
+      "code": "kh",
+      "localeCode": "en",
+      "label": "English",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "id",
+      "localeCode": "en",
+      "label": "Indonesian",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "la",
+      "localeCode": "en",
+      "label": "Lao",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "my",
+      "localeCode": "en",
+      "label": "Malay",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "th",
+      "localeCode": "en",
+      "label": "Thai",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "vn",
+      "localeCode": "en",
+      "label": "Vietnamese",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    }
+  ],
+  "messages": {},
+  "occurrenceSearch": {
+    "scope": {
       "type": "and",
       "predicates": [
         {
           "type": "in",
           "key": "country",
-          "values": ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN", "TL"]
+          "values": [
+            "BN",
+            "KH",
+            "ID",
+            "LA",
+            "MY",
+            "MM",
+            "PH",
+            "SG",
+            "TH",
+            "VN",
+            "TL"
+          ]
         },
         {
           "type": "equals",
@@ -29,28 +186,36 @@ var siteConfig = {
           "value": "COUNTRY_COORDINATE_MISMATCH"
         }
       ]
-    }, // End Occurrence Function
-    mapSettings: { // ASEAN Map configurations and zoom level
-      lat: 10.537453, // Latitude of Map
-      lng: 114.242062, // Longitude of Map
-      zoom: 4 // Level of zoom adjusted to 4
-    },//, // ACB : a30d7f59-d3d4-4e89-97dc-de9cf837f591
-    // You probably need help to configure the scope - so just ask
-    // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
-    // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
-    // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
-    
-    /* Module for statistics home page */
-    /* START CONFIG 
-    predicate: 
-     { 
-      "type": "equals", 
-      "key": "country", 
-      "values": ["BN", "KH", "ID", "LA", "MY", "MM", "PH", "SG", "TH", "VN", "TL"]
+    },
+    "highlightedFilters": [
+      "q",
+      "country",
+      "taxonKey",
+      "year",
+      "datasetKey",
+      "occurrenceStatus",
+      "basisOfRecord",
+      "locality",
+      "geometry"
+    ],
+    "tabs": [
+      "table",
+      "gallery",
+      "map",
+      "datasets",
+      "dashboard",
+      "clusters",
+      "download"
+    ],
+    "mapSettings": {
+      "lat": 10.537453,
+      "lng": 114.242062,
+      "zoom": 4
     }
-    END CONFIG */
-    //rootPredicate: { type: 'equals', key: 'publisher', value: '2b7c7b4f-4d4f-40d3-94de-c28b6fa054a6' }, 
-    // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
-    // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
-  }
+  },
+  "collectionSearch": {},
+  "institutionSearch": {},
+  "datasetSearch": {},
+  "publisherSearch": {},
+  "literatureSearch": {}
 };
