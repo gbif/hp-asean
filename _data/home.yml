@@ -142,7 +142,7 @@ stats:
       description: Dataset records
       background: assets/icons/eco-data.png
       href: /occurrence/search/?view=DATASETS
-    - title: <span>10</span>
+    - title: <span>11</span>
       description: ASEAN Countries
       background: assets/icons/asean-bio.png
       href: /occurrence/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=SG&country=VN&view=map
