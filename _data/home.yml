@@ -145,12 +145,12 @@ stats:
     - title: <span>11</span>
       description: ASEAN Countries
       background: assets/icons/asean-bio.png
-      href: /occurrence/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=SG&country=VN&view=map
+      href: /occurrence/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=TL&country=SG&country=VN&view=map
     - title: <span>265</span>
     #- title: <span id="icount" class="ajax-is-loading">Loading</span>
       description: ASEAN Institutions
       background: assets/icons/museum.png
-      href: /institution/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=SG&country=VN
+      href: /institution/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=TL&country=SG&country=VN
     # - title: <span>2,648</span>
       # description: Protected Areas
       # background: assets/icons/Icon_protected-areas.png
