@@ -16,7 +16,7 @@ function updateElementText(selector, value) {
 {% assign graphqlEndpoint = site.graphqlEndpoint | default: "https://graphql.gbif.org/graphql" %}
 
 document.addEventListener('DOMContentLoaded', () => {
-  const predicate = siteConfig.occurrence.rootPredicate;
+  const predicate = siteConfig.occurrenceSearch.scope;
   const query = `query ($predicate: Predicate) {
     occurrenceSearch(predicate: $predicate, size: 10) {
       documents {

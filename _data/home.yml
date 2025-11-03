@@ -73,7 +73,7 @@ main:
         "queryId": "605377d28a427710e6009c242a3ddda217188884",
         "strict": true,
         "variables": JSON.stringify({
-          "predicate": siteConfig.occurrence.rootPredicate,
+          "predicate": siteConfig.occurrenceSearch.scope,
           "size": 0,
         }),
       });
