@@ -147,7 +147,7 @@ stats:
       background: assets/icons/asean-bio.png
       href: /occurrence/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=TL&country=VN&view=map
     #- title: <span>265</span>
-    - title: <span id="institutionCount" class="ajax-is-loading">Loading</span>
+    - title: <span id="iCount" class="ajax-is-loading">Loading</span>
       description: ASEAN Institutions
       background: assets/icons/museum.png
       href: /institution/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=TL&country=VN
