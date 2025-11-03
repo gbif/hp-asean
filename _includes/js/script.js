@@ -59,8 +59,8 @@ document.addEventListener('DOMContentLoaded', () => {
       var publisherCount = jsonResponse.data.occurrenceSearch.cardinality.publishingOrg;
       updateElementText('#publisherCount', publisherCount);
 
-      var institutionCount = jsonResponse.data.occurrenceSearch.cardinality.publishingOrg;
-      updateElementText('#institutionCount', institutionCount);
+      var iCount = jsonResponse.data.occurrenceSearch.cardinality.publishingOrg;
+      updateElementText('#iCount', iCount);
     })
     .catch(function (err) {
       console.error('Error fetching occurrence count:', err);
