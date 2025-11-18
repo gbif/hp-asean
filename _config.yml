@@ -1,3 +1,7 @@
+# Updated by : Kit Elloran
+# Director, Biodiversity Informatics and Geospatial Analysis
+# 2025-11-18
+#
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -19,7 +23,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ASEAN Biodiversity Dashboard Species Occurrence # the title of your site should go here
-#title: A+BIGNET # the title of your site should go here
 email: cbelloran@aseanbiodiversity.org
 description: >- # this means to ignore newlines (until baseurl:)
   The ASEAN Biodiversity Dashboard is a regional data platform developed to support the monitoring and 
@@ -29,7 +32,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   The dashboard enables policymakers, researchers, and the public to access key information on species, 
   ecosystems, protected areas, and conservation efforts in the ASEAN region, promoting informed 
   decision-making and regional collaboration.
-baseurl: "" # the subpath of your site, e.g. /blog https://abignet.aseanbiodiversity.org/
+baseurl: ""
 url: "https://dashboard-hp.aseanbiodiversity.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -66,7 +69,7 @@ siteMeasurements:
 useSharedLibrary: true
 algae:
   rootLang: en
-  # latestPostLimit: 2
+  latestPostLimit: 9
   logo: /assets/ACB-ASEAN-Logo.jpg     # Logo in navbar, will be displayed with 28px height /assets/images/logo/dashboardlogo2-2.png
   logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/      # /news/ Permalink of page using archive.html layout, required when using post categories
