@@ -9,200 +9,151 @@ description: Total Species Count of Selected Taxonomic Groups in the ASEAN Regio
 height: 70vh
 ---
 
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-  /* --- PAGE LAYOUT & RESET --- */
-  * { box-sizing: border-box; }
-  
-  body {
-    margin: 0;
-    padding: 40px;
-    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    background-color: #f0f2f5;
-    display: flex;
-    justify-content: center;
-    min-height: 100vh;
-  }
+* {
+  box-sizing: border-box;
+}
 
-  /* --- GRID CONTAINER --- */
-  /* This keeps the cards organized in a row/column */
-  .card-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 30px;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+  padding-bottom: 20px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
     width: 100%;
-    max-width: 1200px;
-  }
-
-  /* --- CARD STRUCTURE --- */
-  .flip-card {
-    background-color: transparent;
-    height: 400px; /* Fixed height for uniformity */
-    perspective: 1000px; /* Essential for 3D effect */
-    cursor: pointer;
-  }
-
-  /* The inner container that actually flips */
-  .flip-card-inner {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    text-align: center;
-    transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Bouncy effect */
-    transform-style: preserve-3d;
-    border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-  }
-
-  /* Hover trigger */
-  .flip-card:hover .flip-card-inner {
-    transform: rotateY(180deg);
-  }
-
-  /* --- FRONT & BACK FACES --- */
-  .flip-card-front, .flip-card-back {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    -webkit-backface-visibility: hidden; /* Safari */
-    backface-visibility: hidden; /* Hides the back when facing away */
-    border-radius: 15px;
-    padding: 30px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  /* FRONT Styling */
-  .flip-card-front {
-    background: white;
-    color: #333;
-    border-bottom: 5px solid transparent;
-  }
-
-  /* Specific border colors for visual variety */
-  .card-1 .flip-card-front { border-bottom-color: #004D40; } /* Jungle Green */
-  .card-2 .flip-card-front { border-bottom-color: #FF5722; } /* Deep Orange */
-  .card-3 .flip-card-front { border-bottom-color: #2979FF; } /* Blue */
-
-  .icon {
-    font-size: 3.5rem;
+    display: block;
     margin-bottom: 20px;
   }
+}
 
-  .title {
-    font-size: 1.5rem;
-    font-weight: 700;
-    margin: 0;
-    color: #2c3e50;
-  }
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #F1F5F9;
+}
 
-  .subtitle {
-    font-size: 1rem;
-    color: #7f8c8d;
-    margin-top: 10px;
-  }
-
-  .hint {
-    margin-top: auto;
-    font-size: 0.8rem;
-    color: #bbb;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-
-  /* BACK Styling */
-  .flip-card-back {
-    color: white;
-    transform: rotateY(180deg);
-  }
-
-  /* Individual Card Back Colors */
-  .card-1 .flip-card-back { background: linear-gradient(135deg, #004D40, #00695c); }
-  .card-2 .flip-card-back { background: linear-gradient(135deg, #FF5722, #E64A19); }
-  .card-3 .flip-card-back { background: linear-gradient(135deg, #2979FF, #1565C0); }
-
-  .description {
-    font-size: 1rem;
-    line-height: 1.6;
-    margin-bottom: 20px;
-  }
-
-  .stat-highlight {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-bottom: 5px;
-  }
-
-  .btn {
-    background: rgba(255,255,255,0.2);
-    border: 1px solid rgba(255,255,255,0.5);
-    color: white;
-    padding: 10px 20px;
-    border-radius: 20px;
-    text-decoration: none;
-    font-weight: bold;
-    margin-top: auto;
-    transition: background 0.3s;
-  }
-
-  .btn:hover {
-    background: white;
-    color: #333;
-  }
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
 
 </style>
 
-  <div class="card-grid">
-
-    <div class="flip-card card-1">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <div class="icon">🌿</div>
-          <h2 class="title">Forest Cover</h2>
-          <p class="subtitle">ASEAN Region</p>
-          <div class="hint">Hover for Data</div>
-        </div>
-        <div class="flip-card-back">
-          <div class="stat-highlight">45%</div>
-          <p class="description">ASEAN contains three of the world's major forest blocks, but cover is declining rapidly.</p>
-          <a href="#" class="btn">View Map</a>
-        </div>
-      </div>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <h4>Amphibia</h4>
+      <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Amphibia.png" alt="Amphibia" style="width:100%">
+      <h4>756</h4>
     </div>
-
-    <div class="flip-card card-2">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <div class="icon">🐅</div>
-          <h2 class="title">Endangered</h2>
-          <p class="subtitle">Critical Species</p>
-          <div class="hint">Hover for Data</div>
-        </div>
-        <div class="flip-card-back">
-          <div class="stat-highlight">220+</div>
-          <p class="description">Species are currently listed as Critically Endangered, including the Sumatran Tiger.</p>
-          <a href="#" class="btn">Donate</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="flip-card card-3">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <div class="icon">🪸</div>
-          <h2 class="title">Coral Triangle</h2>
-          <p class="subtitle">Marine Health</p>
-          <div class="hint">Hover for Data</div>
-        </div>
-        <div class="flip-card-back">
-          <div class="stat-highlight">76%</div>
-          <p class="description">Of the world's coral species are found here, supporting millions of livelihoods.</p>
-          <a href="#" class="btn">Deep Dive</a>
-        </div>
-      </div>
-    </div>
-
   </div>
+
+  <div class="column">
+    <div class="card">
+    <h4>Arachnida</h4>
+    <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Arachnida.png" alt="Arachnida" style="width:100%">
+      <h4>2,144</h4>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <h4>Aves</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Aves.png" alt="Aves" style="width:100%">
+     <h4>2,923</h4>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h4>Fish</h4>
+      <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Fish.png" alt="Fish" style="width:100%">
+      <h4>274</h4>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <h4>Bacteria</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Bacteria.png" alt="Bacteria" style="width:100%">
+     <h4>1,116</h4>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <h4>Crustaceans</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Crustaceans.png" alt="Crustaceans" style="width:100%">
+     <h4>...</h4>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <h4>Fungi</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Fungi.png" alt="Fungi" style="width:100%">
+     <h4>...</h4>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <h4>Insecta</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Insecta.png" alt="Insecta" style="width:100%">
+     <h4>17,552</h4>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <h4>Mammalia</h4>
+      <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Mammalia.png" alt="Mammalia" style="width:100%">
+      <h4>1,009</h4>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+     <h4>Mollusca</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Mollusca.png" alt="Mollusca" style="width:100%">
+     <h4>6,791</h4>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+     <h4>Plantae</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Plantae.png" alt="Plantae" style="width:100%">
+     <h4>37,453</h4>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+     <h4>Reptilia</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Reptilia.png" alt="Reptilia" style="width:100%">
+     <h4>1,441</h4>
+    </div>
+  </div>
+</div>
