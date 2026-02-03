@@ -31,7 +31,7 @@ height: 70vh
   /* This keeps the cards organized in a row/column */
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 30px;
     width: 100%;
     max-width: 1200px;
