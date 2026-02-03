@@ -9,9 +9,7 @@ description: Total Species Count of Selected Taxonomic Groups in the ASEAN Regio
 height: 70vh
 ---
 
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Interactive DashFacts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
   /* --- PAGE LAYOUT & RESET --- */
@@ -346,5 +344,3 @@ height: 70vh
         </div>
       </div>
     </div>
-
-  </div>
