@@ -31,7 +31,7 @@ height: 70vh
   /* This keeps the cards organized in a row/column */
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));
     gap: 30px;
     width: 100%;
     max-width: 1200px;
@@ -40,7 +40,7 @@ height: 70vh
   /* --- CARD STRUCTURE --- */
   .flip-card {
     background-color: transparent;
-    height: 400px; /* Fixed height for uniformity */
+    height: 350px; /* Fixed height for uniformity */
     perspective: 1000px; /* Essential for 3D effect */
     cursor: pointer;
   }
