@@ -15,6 +15,7 @@ height: 70vh
   /* --- PAGE LAYOUT & RESET --- */
   * { box-sizing: border-box; }
   
+  /*
   body {
     margin: 0;
     padding: 40px;
@@ -24,6 +25,7 @@ height: 70vh
     justify-content: center;
     min-height: 100vh;
   }
+  */
 
   /* --- GRID CONTAINER --- */
   /* This keeps the cards organized in a row/column */
