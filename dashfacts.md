@@ -98,7 +98,7 @@ height: 70vh
   }
 
   .title {
-    font-size: 1.5rem;
+    font-size: 1.0rem;
     font-weight: 700;
     margin: 0;
     color: #2c3e50;
