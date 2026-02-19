@@ -156,4 +156,28 @@ body {
      <h4>1,441</h4>
     </div>
   </div>
+
+  <div class="column">
+    <div class="card">
+     <h4>Mollusca</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Mollusca.png" alt="Mollusca" style="width:100%">
+     <h4>6,791</h4>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+     <h4>Plantae</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Plantae.png" alt="Plantae" style="width:100%">
+     <h4>37,453</h4>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+     <h4>Reptilia</h4>
+     <img src="https://asean.hp.gbif-staging.org/assets/taxontn/Reptilia.png" alt="Reptilia" style="width:100%">
+     <h4>1,441</h4>
+    </div>
+  </div>
 </div>
