@@ -234,16 +234,20 @@ height: 70vh
 }
 
 </style>
-
-<!---h1>ASEAN Biodiversity DashFacts</h1><br><br--->
   <div class="card-grid">
-
     <div class="flip-card card-2">
       <div class="flip-card-inner">
         <div class="flip-card-front">
           <div class="icon">🐅</div>
-          <h2 class="title">Endangered</h2>
-          <p class="subtitle">Critical Species</p>
+          <h2 class="title">Tasek Merimbun Heritage Park</h2>
+          <p class="subtitle">
+             Contact Information
+             Jabatan Muzium-Muzium
+             Kementerian Kebudayaan, Belia dan Sukan
+             Negara Brunei Darussalam
+             Email: info@muzium.gov.bn
+             Website: www.museums.gov.bn
+             Instagram: @jabatanmuziummuziumbrunei</p>
           <div class="hint">Hover for Data</div>
         </div>
         <div class="flip-card-back">
