@@ -253,21 +253,4 @@ height: 70vh
         </div>
       </div>
     </div>
-
-<!--->
-    <div class="flip-card card-6">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <div class="icon">🐝</div>
-          <h2 class="title">ASEAN Countries</h2>
-          <p class="subtitle">List of AHPs</p>
-          <div class="hint">Hover for Data</div>
-        </div>
-        <div class="flip-card-back">
-          <div class="stat-highlight">68%</div>
-          <p class="description">List of ASEAN Heritage Parks</p>
-          <a href="#" class="btn">Deep Dive</a>
-        </div>
-      </div>
-    </div--->
   </div>
