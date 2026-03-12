@@ -240,19 +240,19 @@ height: 70vh
           <!---div class="icon">🐅</div--->
           <h2 class="title">Tasek Merimbun Heritage Park</h2>
           <p class="subtitle">
-             Contact Information
-             Jabatan Muzium-Muzium
-             Kementerian Kebudayaan, Belia dan Sukan
-             Negara Brunei Darussalam
-             Email: info@muzium.gov.bn
-             Website: www.museums.gov.bn
+             Contact Information <br>
+             Jabatan Muzium-Muzium <br>
+             Kementerian Kebudayaan, Belia dan Sukan <br>
+             Negara Brunei Darussalam <br>
+             Email: info@muzium.gov.bn <br>
+             Website: www.museums.gov.bn <br>
              Instagram: @jabatanmuziummuziumbrunei</p>
           <div class="hint">Hover for Data</div>
         </div>
         <div class="flip-card-back">
-          <div class="stat-highlight">6,736 species occurrence</div>
-          <p class="description">View AHP Map</p>
-          <a href="#" class="btn">More info.</a>
+          <div class="stat-highlight">6,736</div>
+          <p class="description">Species occurrence</p>
+          <a href="#" class="btn">View AHP Map</a>
         </div>
       </div>
     </div>
