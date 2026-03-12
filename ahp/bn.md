@@ -237,7 +237,7 @@ height: 70vh
     <div class="flip-card card-2">
       <div class="flip-card-inner">
         <div class="flip-card-front">
-          <div class="icon">🐅</div>
+          <!---div class="icon">🐅</div--->
           <h2 class="title">Tasek Merimbun Heritage Park</h2>
           <p class="subtitle">
              Contact Information
