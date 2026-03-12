@@ -5,7 +5,7 @@ title: Brunei Darussalam AHPs
 background: assets/images/Aung Kyaw Moe_Chin Women.jpg
 imageLicense: |
   *Photo by Aung Kyaw Moe Chin, Zooming In on Biodiversity
-description: ASEAN Heritage Parks are defined as “protected areas of high conservation importance, preserving in total a complete spectrum of representative ecosystems of the ASEAN region.” These areas are established to generate greater awareness, pride, appreciation, enjoyment and conservation of ASEAN’s rich natural heritage, through a regional network of representative protected areas, and to generate greater collaboration among AMS in preserving their shared natural heritage.
+description: Both a natural and cultural heritage of Brunei, this is the country’s biggest wildlife sanctuary, a recreational centre and venue for research and education. It is one of the seven Important Bird Areas (IBAs) in the country, where you can find the Black Lake Tasek Merimbun Heritage Park is known as the home of ethnic Dusuns.
 height: 70vh
 ---
 
