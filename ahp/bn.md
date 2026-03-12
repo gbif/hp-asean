@@ -238,35 +238,6 @@ height: 70vh
 <!---h1>ASEAN Biodiversity DashFacts</h1><br><br--->
   <div class="card-grid">
 
-    <div class="flip-card card-1">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <div class="icon">🌿</div>
-          <h2 class="title">Forest Cover</h2>
-          <p class="subtitle">ASEAN Region</p>
-          <div class="hint">Hover for Data</div>
-        </div>
-        <div class="flip-card-back">
-          <div class="stat-highlight">45%</div>
-          <p class="description">ASEAN contains three of the world's major forest blocks, but cover is declining rapidly.</p>
-          
-          <div class="data-vis-container">
-        <div class="label-row">
-          <span>Honey Bee</span>
-          <span>Wallace's Bee</span>
-        </div>
-        <div class="bar-chart">
-          <div class="bar honey-bee" style="width: 25%;"></div>
-          <div class="bar wallace-bee" style="width: 100%;"></div>
-        </div>
-        <div class="stats-label">Wingspan: 2.5 inches</div>
-      </div>
-          
-          <a href="#" class="btn">View Map</a>
-        </div>
-      </div>
-    </div>
-
     <div class="flip-card card-2">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -283,53 +254,6 @@ height: 70vh
       </div>
     </div>
 
-    <div class="flip-card card-3">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <div class="icon">🪸</div>
-          <h2 class="title">Coral Triangle</h2>
-          <p class="subtitle">Marine Health</p>
-          <div class="hint">Hover for Data</div>
-        </div>
-        <div class="flip-card-back">
-          <div class="stat-highlight">76%</div>
-          <p class="description">Of the world's coral species are found here, supporting millions of livelihoods.</p>
-          <a href="#" class="btn">Deep Dive</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="flip-card card-4">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <div class="icon">🪸</div>
-          <h2 class="title">ASEAN Heritage Parks</h2>
-          <p class="subtitle">List of AHPs</p>
-          <div class="hint">Hover for Data</div>
-        </div>
-        <div class="flip-card-back">
-          <div class="stat-highlight">45%</div>
-          <p class="description">List of ASEAN Heritage Parks</p>
-          <a href="#" class="btn">Deep Dive</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="flip-card card-5">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <div class="icon">🪸</div>
-          <h2 class="title">ASEAN Protected Areas</h2>
-          <p class="subtitle">List of AHPs</p>
-          <div class="hint">Hover for Data</div>
-        </div>
-        <div class="flip-card-back">
-          <div class="stat-highlight">30%</div>
-          <p class="description">List of ASEAN Heritage Parks</p>
-          <a href="#" class="btn">Deep Dive</a>
-        </div>
-      </div>
-    </div>
 
     <div class="flip-card card-6">
       <div class="flip-card-inner">
