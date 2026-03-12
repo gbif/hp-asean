@@ -254,7 +254,7 @@ height: 70vh
       </div>
     </div>
 
-
+<!--->
     <div class="flip-card card-6">
       <div class="flip-card-inner">
         <div class="flip-card-front">
@@ -269,4 +269,5 @@ height: 70vh
           <a href="#" class="btn">Deep Dive</a>
         </div>
       </div>
-    </div>
+    </div--->
+  </div>
