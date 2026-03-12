@@ -1,6 +1,5 @@
 ---
 layout: heroImage
-lang-ref: aseanheritageparks
 title: Brunei Darussalam AHPs
 background: ahp/AHP Photos/BRUNEI DARUSSALAM/Tasek Merimbun Heritage Park/RGalsim_AERIAL VIEW OF TASEK MERIMBUN TUTONG _HMYusof IMG_4641.jpg
 imageLicense: |
