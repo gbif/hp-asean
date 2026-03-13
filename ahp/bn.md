@@ -252,7 +252,16 @@ height: 70vh
         </div>
         <div class="flip-card-back">
           <div class="stat-highlight">6,736 results with coordinates</div>
-          <p class="description">Species are currently listed as Critically Endangered, including the Sumatran Tiger.</p>
+          <p class="description"><b>Location</b>b <br>
+          32 kilometres south of Tutong-Kuala Belait coastal highway on the west bank of Sungai Tutong in Mukim Rambal, Tutong District, Brunei Darussalam.
+          <b>Area</b> <br>
+          7,800 hectares
+          <b>Date declared as an AHP</b>b> <br>
+          29 November 1984, at the Second ASEAN Ministerial Meeting, Bangkok, Thailand
+          <b>Other international designations</b>b> <br>
+          –
+          <b>Habitat types</b>b> <br>
+          Mangroves; freshwater swamp forest; peat swamps; lowland mixed dipterocarp forest; kerangas; old secondary forest; and grass marshes.</p>
           <a href="https://asean.hp.gbif-staging.org/occurrence/search?geometry=POLYGON%28%28114.72448+4.48036%2C114.73679+4.48054%2C114.73805+4.5535%2C114.72605+4.56932%2C114.71621+4.57625%2C114.71049+4.61077%2C114.69891+4.61108%2C114.65977+4.61828%2C114.64882+4.60325%2C114.6546+4.58573%2C114.63348+4.55505%2C114.62753+4.53971%2C114.62472+4.5203%2C114.62566+4.48148%2C114.72364+4.48032%2C114.72366+4.48034%2C114.72448+4.48036%29%29&view=map" target="_blank" class="btn">View AHP Map</a>
         </div>
       </div>
