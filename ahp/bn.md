@@ -242,20 +242,14 @@ height: 70vh
       <div class="flip-card-inner">
         <div class="flip-card-front">
           <div class="icon">🐅</div>
-          <h2 class="title">Tasek Merimbun Heritage Park</h2>
+          <h2 class="title">Endangered</h2>
           <p class="subtitle">Critical Species</p>
           <div class="hint">Hover for Data</div>
         </div>
         <div class="flip-card-back">
-<<<<<<< HEAD
           <div class="stat-highlight">220+</div>
           <p class="description">Species are currently listed as Critically Endangered, including the Sumatran Tiger.</p>
           <a href="#" class="btn">Donate</a>
-=======
-          <div class="stat-highlight">6,736</div>
-          <p class="description">Species occurrence</p>
-          <a target="_blank" href="https://dashboard-hp.aseanbiodiversity.org/occurrence/search?geometry=POLYGON%28%28114.72448+4.48036%2C114.73679+4.48054%2C114.73805+4.5535%2C114.72605+4.56932%2C114.71621+4.57625%2C114.71049+4.61077%2C114.69891+4.61108%2C114.65977+4.61828%2C114.64882+4.60325%2C114.6546+4.58573%2C114.63348+4.55505%2C114.62753+4.53971%2C114.62472+4.5203%2C114.62566+4.48148%2C114.72364+4.48032%2C114.72366+4.48034%2C114.72448+4.48036%29%29&view=map" class="btn">View AHP Map</a>
->>>>>>> 421c37630c558438367a5b495273406325cab201
         </div>
       </div>
     </div>
