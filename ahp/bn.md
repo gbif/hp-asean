@@ -2,7 +2,7 @@
 layout: heroImage
 lang-ref: aseanheritageparks
 title: Brunei Darussalam AHPs
-background: assets/images/Aung Kyaw Moe_Chin Women.jpg
+background: ahp/AHP Photos/BRUNEI DARUSSALAM/Tasek Merimbun Heritage Park/RGalsim_AERIAL VIEW OF TASEK MERIMBUN TUTONG _HMYusof IMG_4641.jpg
 imageLicense: |
   *Photo by Aung Kyaw Moe Chin, Zooming In on Biodiversity
 description: Both a natural and cultural heritage of Brunei, this is the country’s biggest wildlife sanctuary, a recreational centre and venue for research and education. It is one of the seven Important Bird Areas (IBAs) in the country, where you can find the Black Lake Tasek Merimbun Heritage Park is known as the home of ethnic Dusuns.
@@ -237,7 +237,6 @@ height: 70vh
 
 <!---h1>ASEAN Biodiversity DashFacts</h1><br><br--->
   <div class="card-grid">
-
     <div class="flip-card card-2">
       <div class="flip-card-inner">
         <div class="flip-card-front">
