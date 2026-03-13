@@ -252,13 +252,13 @@ height: 70vh
         </div>
         <div class="flip-card-back">
           <div class="stat-highlight">6,736 results with coordinates</div>
-          <p class="description"><b>Location</b>b <br>
+          <p class="description"><b>Location</b> <br>
           32 kilometres south of Tutong-Kuala Belait coastal highway on the west bank of Sungai Tutong in Mukim Rambal, Tutong District, Brunei Darussalam.
           <b>Area</b> <br>
           7,800 hectares
-          <b>Date declared as an AHP</b>b> <br>
+          <b>Date declared as an AHP</b> <br>
           29 November 1984, at the Second ASEAN Ministerial Meeting, Bangkok, Thailand
-          <b>Other international designations</b>b> <br>
+          <b>Other international designations</b> <br>
           –
           <b>Habitat types</b>b> <br>
           Mangroves; freshwater swamp forest; peat swamps; lowland mixed dipterocarp forest; kerangas; old secondary forest; and grass marshes.</p>
