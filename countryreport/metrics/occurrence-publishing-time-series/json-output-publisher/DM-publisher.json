@@ -1,0 +1,73 @@
+{
+  "countryCode": "DM",
+  "countryName": "Dominica",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 684
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 596
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1478
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1174
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 796
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2716
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2333
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 813
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 2250
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 2600
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1359
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 952
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 2560
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 7155
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 8467
+        }
+      ]
+    }
+  ]
+}

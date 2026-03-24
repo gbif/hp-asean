@@ -1,0 +1,73 @@
+{
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 925
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 569
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 2147
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1475
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 2804
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 6249
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 14288
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 11482
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 14979
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 41730
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 20238
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 31680
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 49814
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 113836
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 94490
+        }
+      ]
+    }
+  ]
+}

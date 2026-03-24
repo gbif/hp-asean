@@ -1,0 +1,82 @@
+{
+  "countryCode": "AO",
+  "countryName": "Angola",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 518
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1552
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 349
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 877
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 991
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 782
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3732
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 3008
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 7278
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1681
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 2623
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1894
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 15269
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 22893
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 30901
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2017,
+          "occurrenceCount": 9391
+        }
+      ]
+    }
+  ]
+}

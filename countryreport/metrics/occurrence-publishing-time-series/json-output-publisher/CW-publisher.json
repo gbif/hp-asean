@@ -1,0 +1,73 @@
+{
+  "countryCode": "CW",
+  "countryName": "Curaçao",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 462
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 335
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 893
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 456
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1160
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2994
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 6266
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 25950
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 30216
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 45266
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 37887
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 33434
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 39649
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 33626
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 49980
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "countryCode": "OM",
+  "countryName": "Oman",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 6224
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 3446
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 7115
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 5684
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 16164
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 24206
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 21803
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 17734
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 23194
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 23845
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 7622
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 14901
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 44750
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 56491
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 102990
+        }
+      ]
+    }
+  ]
+}

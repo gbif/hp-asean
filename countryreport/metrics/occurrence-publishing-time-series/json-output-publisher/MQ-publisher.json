@@ -1,0 +1,73 @@
+{
+  "countryCode": "MQ",
+  "countryName": "Martinique",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 43
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 130
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 69
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 317
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1131
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 552
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 1081
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1613
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 3510
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 2621
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 4228
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1912
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3233
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 8351
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 8132
+        }
+      ]
+    }
+  ]
+}

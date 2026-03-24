@@ -1,0 +1,192 @@
+{
+  "countryCode": "IS",
+  "countryName": "Iceland",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 5710
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 43021
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 51883
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 48534
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 49306
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 57557
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 65473
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 85709
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 109906
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 115863
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 75196
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 117515
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 152026
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 214554
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 234657
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 50
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 209
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 267
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 173
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 202
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 124
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 328
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 268
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 135
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 120
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 119
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 77
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 41
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 17
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 3
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2017,
+          "occurrenceCount": 170
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 238
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 128
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 128
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 25
+        }
+      ]
+    }
+  ]
+}

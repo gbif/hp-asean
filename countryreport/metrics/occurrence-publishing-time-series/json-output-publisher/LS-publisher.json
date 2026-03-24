@@ -1,0 +1,73 @@
+{
+  "countryCode": "LS",
+  "countryName": "Lesotho",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 90
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 345
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1438
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1314
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 934
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1249
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 854
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1308
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1876
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1653
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 199
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 312
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 2642
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 3258
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 4446
+        }
+      ]
+    }
+  ]
+}

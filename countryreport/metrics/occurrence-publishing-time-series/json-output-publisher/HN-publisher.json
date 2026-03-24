@@ -1,0 +1,82 @@
+{
+  "countryCode": "HN",
+  "countryName": "Honduras",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 12349
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 22124
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 55258
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 78268
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 120304
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 214469
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 308586
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 257295
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 312912
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 317685
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 288145
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 350173
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 345354
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 355520
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 313890
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 1
+        }
+      ]
+    }
+  ]
+}

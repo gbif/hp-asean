@@ -1,0 +1,53 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+
+    /* Path mapping */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    },
+
+    /* Types */
+    "types": ["vite/client"]
+  },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": [
+    "vite.config.ts",
+    "node_modules",
+    "dist",
+    "data/species-accumulation/*.ts",
+    "data/dataset-scatterplot/*.ts",
+    "data/species-occurrence-table/*.ts",
+    "data/taxonomic-diversity/*.ts",
+    "data/occurrence-time-series/*.ts",
+    "data/wealth-distribution/*.ts",
+    "components/ui/aspect-ratio.tsx",
+    "components/ui/calendar.tsx",
+    "components/ui/carousel.tsx",
+    "components/ui/drawer.tsx",
+    "components/ui/form.tsx",
+    "components/ui/input-otp.tsx",
+    "components/ui/resizable.tsx",
+    "components/ui/sonner.tsx"
+  ],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}

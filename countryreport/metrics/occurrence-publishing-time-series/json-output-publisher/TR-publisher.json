@@ -1,0 +1,73 @@
+{
+  "countryCode": "TR",
+  "countryName": "Türkiye",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 60512
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 63941
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 80968
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 81358
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 80352
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 83465
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 120409
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 117121
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 144048
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 199451
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 190438
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 302500
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 360236
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 472561
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 560819
+        }
+      ]
+    }
+  ]
+}

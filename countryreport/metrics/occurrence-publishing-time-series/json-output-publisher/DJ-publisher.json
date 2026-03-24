@@ -1,0 +1,73 @@
+{
+  "countryCode": "DJ",
+  "countryName": "Djibouti",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 9
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 178
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 188
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 115
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 717
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1506
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2305
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 4588
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 3651
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 2755
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 521
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 3145
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 1568
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 766
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1699
+        }
+      ]
+    }
+  ]
+}

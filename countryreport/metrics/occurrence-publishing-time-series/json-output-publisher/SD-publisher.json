@@ -1,0 +1,73 @@
+{
+  "countryCode": "SD",
+  "countryName": "Sudan",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 7
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 208
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 617
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 440
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 612
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 675
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 539
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 136
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 242
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 671
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1150
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1085
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 456
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 303
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 292
+        }
+      ]
+    }
+  ]
+}

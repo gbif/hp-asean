@@ -1,0 +1,73 @@
+{
+  "countryCode": "GU",
+  "countryName": "Guam",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 16
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 48
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 76
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 680
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1008
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1335
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 1254
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1335
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1140
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1343
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1559
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1427
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 1621
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1542
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 2315
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "countryCode": "BH",
+  "countryName": "Bahrain",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 363
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 114
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 214
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 262
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 200
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1339
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 350
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 742
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 964
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 2648
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 276
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 2708
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 4745
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 2535
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 3609
+        }
+      ]
+    }
+  ]
+}

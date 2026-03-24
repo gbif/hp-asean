@@ -1,0 +1,157 @@
+{
+  "countryCode": "BW",
+  "countryName": "Botswana",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 10949
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 9833
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 17379
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 16410
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 23143
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 23899
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 33361
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 36866
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 42838
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 55671
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 11554
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 45271
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 91863
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 117895
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 134677
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 7
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 4
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2016,
+          "occurrenceCount": 71
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 72
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 24
+        }
+      ]
+    },
+    {
+      "group": "Molluscs",
+      "data": [
+        {
+          "year": 2017,
+          "occurrenceCount": 8
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 3
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 172
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 332
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 251
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 250
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 143
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 65
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 9
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 2
+        }
+      ]
+    }
+  ]
+}

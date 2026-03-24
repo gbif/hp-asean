@@ -1,0 +1,21 @@
+{
+  "countryCode": "BV",
+  "countryName": "Bouvet Island",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2012,
+          "occurrenceCount": 8
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 37
+        }
+      ]
+    }
+  ]
+}

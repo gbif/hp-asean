@@ -1,0 +1,73 @@
+{
+  "countryCode": "SA",
+  "countryName": "Saudi Arabia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 231
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1338
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 4090
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 4416
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 3805
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2131
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 1856
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1962
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 10703
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 10137
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 10510
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 22849
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 37991
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 47671
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 57837
+        }
+      ]
+    }
+  ]
+}

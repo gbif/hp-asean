@@ -1,0 +1,50 @@
+# GBIF download files
+*.zip
+*-*.zip
+
+# Data directory
+data/
+
+# R data files
+*.rda
+*.RData
+*.Rhistory
+
+# Node modules
+node_modules/
+.vite/
+
+# Environment files
+.env
+.env.local
+
+# History/backup files
+.history/
+
+# Temporary files
+*.tmp
+*.temp
+temp_*.json
+test_*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# R output files (intermediate files - data is copied to ui/public/data/)
+metrics/**/json-output/
+metrics/**/plots/
+
+# IMPORTANT: Do NOT ignore ui/public/data/ - these JSON files are essential for the static website!
+# ui/public/data/**/*.json should be committed to git
+
+# Build artifacts
+dist/
+build/
+target/
+*.jar
+*.war

@@ -1,0 +1,65 @@
+{
+  "countryCode": "KM",
+  "countryName": "Comoros",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 83
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 195
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 261
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 21
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 427
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 21
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 142
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 35
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 447
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 1697
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 281
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1051
+        }
+      ]
+    }
+  ]
+}

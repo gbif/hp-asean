@@ -1,0 +1,73 @@
+{
+  "countryCode": "IQ",
+  "countryName": "Iraq",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 333
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1659
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 91
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 186
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 339
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 653
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3529
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 12292
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 13592
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 4271
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 878
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 2417
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 2363
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1848
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1368
+        }
+      ]
+    }
+  ]
+}

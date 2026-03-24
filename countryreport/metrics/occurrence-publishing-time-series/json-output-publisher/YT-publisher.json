@@ -1,0 +1,53 @@
+{
+  "countryCode": "YT",
+  "countryName": "Mayotte",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 21
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 36
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 105
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 50
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 208
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 21
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 14
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 1199
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 805
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1442
+        }
+      ]
+    }
+  ]
+}

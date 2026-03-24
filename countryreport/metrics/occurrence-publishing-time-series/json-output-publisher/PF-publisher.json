@@ -1,0 +1,73 @@
+{
+  "countryCode": "PF",
+  "countryName": "French Polynesia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 417
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 391
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 330
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1635
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 752
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 637
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 765
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1658
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 3217
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 4624
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1083
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 4940
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 10977
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 7625
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 8120
+        }
+      ]
+    }
+  ]
+}

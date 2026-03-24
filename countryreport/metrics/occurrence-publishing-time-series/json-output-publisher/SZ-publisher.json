@@ -1,0 +1,73 @@
+{
+  "countryCode": "SZ",
+  "countryName": "Eswatini",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 247
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 281
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 640
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1450
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1584
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2590
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2940
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 3117
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 5631
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 7270
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 8525
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1526
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 7387
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 5453
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 10958
+        }
+      ]
+    }
+  ]
+}

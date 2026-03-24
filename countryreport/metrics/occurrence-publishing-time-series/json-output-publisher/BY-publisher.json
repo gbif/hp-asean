@@ -1,0 +1,210 @@
+{
+  "countryCode": "BY",
+  "countryName": "Belarus",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 348
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 574
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 29
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 82
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 2036
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2380
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3828
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 5963
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 18222
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 21588
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 32673
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 44573
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 55705
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 62617
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 82604
+        }
+      ]
+    },
+    {
+      "group": "Ferns",
+      "data": [
+        {
+          "year": 2024,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 5
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 178
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 173
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 177
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 180
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 190
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 187
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 77
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 397
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 512
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 1056
+        }
+      ]
+    },
+    {
+      "group": "Gymnosperms",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 19
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 19
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 19
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 19
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 11
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 11
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 29
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 50
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 18
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 18
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 86
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 42
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 8
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2024,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 6
+        }
+      ]
+    }
+  ]
+}

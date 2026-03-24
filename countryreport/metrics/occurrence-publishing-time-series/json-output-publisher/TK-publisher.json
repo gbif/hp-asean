@@ -1,0 +1,29 @@
+{
+  "countryCode": "TK",
+  "countryName": "Tokelau",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2012,
+          "occurrenceCount": 57
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 25
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1
+        }
+      ]
+    }
+  ]
+}

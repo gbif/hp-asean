@@ -1,0 +1,73 @@
+{
+  "countryCode": "GS",
+  "countryName": "South Georgia and the South Sandwich Islands",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1698
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 515
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 2047
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 573
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1613
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2013
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2837
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 4061
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 5547
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 3819
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 2479
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1220
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 28731
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 11798
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 23783
+        }
+      ]
+    }
+  ]
+}

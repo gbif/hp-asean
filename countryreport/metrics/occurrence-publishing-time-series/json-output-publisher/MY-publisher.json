@@ -1,0 +1,180 @@
+{
+  "countryCode": "MY",
+  "countryName": "Malaysia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 53069
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 53111
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 54951
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 58446
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 71721
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 89002
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 100860
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 139007
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 188106
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 222684
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 130863
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 98520
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 278267
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 403533
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 515488
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2012,
+          "occurrenceCount": 22
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 37
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 109
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 36
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 23
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 40
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 9
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 6
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 9
+        }
+      ]
+    },
+    {
+      "group": "Molluscs",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 834
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 40
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 430
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 10
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 277
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 184
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 96
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 276
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 211
+        }
+      ]
+    }
+  ]
+}

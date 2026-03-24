@@ -1,0 +1,73 @@
+{
+  "countryCode": "KG",
+  "countryName": "Kyrgyzstan",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 559
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1524
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 652
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1688
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 702
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1410
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 954
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 2434
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1855
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 4094
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 3179
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 8331
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 15799
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 18872
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 33827
+        }
+      ]
+    }
+  ]
+}

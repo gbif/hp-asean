@@ -1,0 +1,90 @@
+{
+  "countryCode": "BO",
+  "countryName": "Bolivia (Plurinational State of)",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 17763
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 14600
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 24381
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 23714
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 15435
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 43977
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 27413
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 50841
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 86334
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 91956
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 56624
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 111492
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 212271
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 227228
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 239170
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 1779
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1019
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 347
+        }
+      ]
+    }
+  ]
+}

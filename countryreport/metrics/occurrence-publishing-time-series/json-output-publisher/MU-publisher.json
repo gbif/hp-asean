@@ -1,0 +1,112 @@
+{
+  "countryCode": "MU",
+  "countryName": "Mauritius",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 413
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 279
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 588
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 809
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 614
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1699
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 1304
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1208
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1289
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 2462
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 260
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1116
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3728
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 5247
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 7733
+        }
+      ]
+    },
+    {
+      "group": "Ferns",
+      "data": [
+        {
+          "year": 2017,
+          "occurrenceCount": 8
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 15
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2017,
+          "occurrenceCount": 519
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 481
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2017,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 13
+        }
+      ]
+    }
+  ]
+}

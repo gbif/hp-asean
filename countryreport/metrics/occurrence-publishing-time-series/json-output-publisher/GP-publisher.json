@@ -1,0 +1,73 @@
+{
+  "countryCode": "GP",
+  "countryName": "Guadeloupe",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 763
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1478
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 4004
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 11279
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 27882
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 25090
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 16027
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 17503
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 21614
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 36081
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 32825
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 30052
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 34316
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 46121
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 49586
+        }
+      ]
+    }
+  ]
+}

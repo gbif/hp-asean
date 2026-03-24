@@ -1,0 +1,25 @@
+{
+  "countryCode": "NR",
+  "countryName": "Nauru",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2016,
+          "occurrenceCount": 14
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 25
+        }
+      ]
+    }
+  ]
+}

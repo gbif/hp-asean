@@ -1,0 +1,160 @@
+{
+  "countryCode": "ET",
+  "countryName": "Ethiopia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Arachnids",
+      "data": [
+        {
+          "year": 2011,
+          "occurrenceCount": 700
+        }
+      ]
+    },
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 11042
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 22897
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 16856
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 33867
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 34983
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 31917
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 34996
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 40871
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 85887
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 86112
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 26530
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 12798
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 38324
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 33338
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 66552
+        }
+      ]
+    },
+    {
+      "group": "Ferns",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 10
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 1026
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 577
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 419
+        }
+      ]
+    },
+    {
+      "group": "Gymnosperms",
+      "data": [
+        {
+          "year": 2025,
+          "occurrenceCount": 3
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2011,
+          "occurrenceCount": 34
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1655
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 274
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2011,
+          "occurrenceCount": 113
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 271
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 70
+        }
+      ]
+    }
+  ]
+}

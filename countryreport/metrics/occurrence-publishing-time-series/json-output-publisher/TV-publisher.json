@@ -1,0 +1,29 @@
+{
+  "countryCode": "TV",
+  "countryName": "Tuvalu",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 8
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 9
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 3
+        }
+      ]
+    }
+  ]
+}

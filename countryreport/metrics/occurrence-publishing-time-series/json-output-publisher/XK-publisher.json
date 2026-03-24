@@ -1,0 +1,73 @@
+{
+  "countryCode": "XK",
+  "countryName": "Kosovo",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 13
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 46
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 63
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 15
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 16
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 210
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 113
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 3519
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 817
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 7606
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 6052
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3576
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1584
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 2077
+        }
+      ]
+    }
+  ]
+}

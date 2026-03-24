@@ -1,0 +1,139 @@
+{
+  "countryCode": "KH",
+  "countryName": "Cambodia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 4704
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 7463
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 12022
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 16993
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 15619
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 37021
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 68454
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 85388
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 98304
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 70548
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 83298
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 86918
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 114123
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 145906
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 187986
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 678
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 849
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 728
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 8683
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 3591
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1302
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 766
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1006
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1803
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 9
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 526
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 30
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 399
+        }
+      ]
+    },
+    {
+      "group": "Reptiles",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 3
+        }
+      ]
+    }
+  ]
+}

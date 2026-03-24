@@ -1,0 +1,73 @@
+{
+  "countryCode": "GM",
+  "countryName": "Gambia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 5709
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 8649
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 8588
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 16883
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 12776
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 9187
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 24765
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 10542
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 33208
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 32691
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 21252
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 15042
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 46781
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 76600
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 97919
+        }
+      ]
+    }
+  ]
+}

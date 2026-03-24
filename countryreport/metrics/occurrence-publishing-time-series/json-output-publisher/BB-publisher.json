@@ -1,0 +1,90 @@
+{
+  "countryCode": "BB",
+  "countryName": "Barbados",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 408
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1035
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 496
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 2441
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 2822
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 4854
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 9310
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 11752
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 17788
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 15428
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 12139
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 12219
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 10825
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 20729
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 22543
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2012,
+          "occurrenceCount": 42
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 134
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 137
+        }
+      ]
+    }
+  ]
+}

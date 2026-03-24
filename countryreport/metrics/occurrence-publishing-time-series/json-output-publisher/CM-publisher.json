@@ -1,0 +1,200 @@
+{
+  "countryCode": "CM",
+  "countryName": "Cameroon",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 974
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 6240
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 13148
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 7562
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 4240
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 5550
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3237
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 10977
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 6696
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 3675
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 2336
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 2466
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3357
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 5572
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 5309
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 400
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 384
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 7141
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 553
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 479
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 22759
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 14974
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 382
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 285
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 285
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 285
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 114
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2015,
+          "occurrenceCount": 17
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 103
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 27
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 160
+        }
+      ]
+    },
+    {
+      "group": "Reptiles",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 26
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 22
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 27
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 56
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 113
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 203
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 243
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 461
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 551
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 449
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 11
+        }
+      ]
+    }
+  ]
+}

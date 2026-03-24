@@ -1,0 +1,142 @@
+{
+  "countryCode": "LT",
+  "countryName": "Lithuania",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 2131
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 2641
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1048
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 2538
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 2792
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 5154
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 8962
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 7269
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 13488
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 24856
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 36530
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 65952
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 62132
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 81459
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 84048
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 489
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 585
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 361
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 245
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 177
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 105
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 223
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 45
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 11
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 54
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 209
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 142
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 164
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 60
+        }
+      ]
+    }
+  ]
+}

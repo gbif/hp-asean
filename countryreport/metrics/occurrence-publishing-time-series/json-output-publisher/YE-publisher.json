@@ -1,0 +1,69 @@
+{
+  "countryCode": "YE",
+  "countryName": "Yemen",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 231
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 21
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 32
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 51
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 110
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 14
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 29
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 319
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 292
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 275
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 15
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 1384
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1266
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 3542
+        }
+      ]
+    }
+  ]
+}

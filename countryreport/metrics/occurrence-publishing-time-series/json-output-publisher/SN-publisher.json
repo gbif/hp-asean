@@ -1,0 +1,128 @@
+{
+  "countryCode": "SN",
+  "countryName": "Senegal",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 9463
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 7008
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 6122
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 5702
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 5902
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 10036
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 33694
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 32213
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 48592
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 38990
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 39474
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 6765
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 35864
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 89621
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 78016
+        }
+      ]
+    },
+    {
+      "group": "Ferns",
+      "data": [
+        {
+          "year": 2014,
+          "occurrenceCount": 20
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 17
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 6
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 4
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2017,
+          "occurrenceCount": 174
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 224
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 19
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 4
+        }
+      ]
+    }
+  ]
+}

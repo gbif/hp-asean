@@ -1,0 +1,73 @@
+{
+  "countryCode": "CY",
+  "countryName": "Cyprus",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 11647
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 9106
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 11293
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 16352
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 13685
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 14840
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 13410
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 19231
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 22033
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 26400
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 17796
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 15846
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 41496
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 67910
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 69921
+        }
+      ]
+    }
+  ]
+}

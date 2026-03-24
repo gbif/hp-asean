@@ -1,0 +1,151 @@
+{
+  "countryCode": "ME",
+  "countryName": "Montenegro",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 116
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 406
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 703
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1316
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1190
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1220
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 1238
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 2104
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 2414
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 3099
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 286
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 6874
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 5147
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 10842
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 20092
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2013,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 129
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 107
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 633
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 322
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 122
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 61
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 18
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 11
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 264
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 8
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 4
+        }
+      ]
+    }
+  ]
+}

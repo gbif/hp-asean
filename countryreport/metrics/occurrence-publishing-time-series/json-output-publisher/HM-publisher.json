@@ -1,0 +1,25 @@
+{
+  "countryCode": "HM",
+  "countryName": "Heard Island and McDonald Islands",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2012,
+          "occurrenceCount": 81
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 33
+        }
+      ]
+    }
+  ]
+}

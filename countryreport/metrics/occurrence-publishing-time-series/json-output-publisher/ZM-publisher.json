@@ -1,0 +1,98 @@
+{
+  "countryCode": "ZM",
+  "countryName": "Zambia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1978
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 4359
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 5691
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 6836
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 7404
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 14850
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 13204
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 11846
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 30616
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 48271
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 34439
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 89125
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 120987
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 136073
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 179826
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 238
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 421
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 136
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 6
+        }
+      ]
+    }
+  ]
+}

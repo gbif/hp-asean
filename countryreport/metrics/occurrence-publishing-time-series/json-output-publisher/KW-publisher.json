@@ -1,0 +1,73 @@
+{
+  "countryCode": "KW",
+  "countryName": "Kuwait",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 940
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 3013
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 2290
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 5455
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 49426
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 44486
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 22528
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 28521
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 26804
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 22504
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 19988
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 21479
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 16807
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 17227
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 30068
+        }
+      ]
+    }
+  ]
+}

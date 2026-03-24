@@ -1,0 +1,91 @@
+{
+  "countryCode": "NC",
+  "countryName": "New Caledonia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 327
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1419
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 981
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 447
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1242
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2797
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 1989
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 2210
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 4396
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 6957
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1611
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 740
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3908
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 11273
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 11530
+        }
+      ]
+    },
+    {
+      "group": "Molluscs",
+      "data": [
+        {
+          "year": 2014,
+          "occurrenceCount": 1098
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2014,
+          "occurrenceCount": 11356
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "countryCode": "LA",
+  "countryName": "Lao People’s Democratic Republic",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1157
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1357
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 612
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 784
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1042
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1448
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 1322
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 3480
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 6886
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 9868
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 32602
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 32194
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 26123
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 26323
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 30776
+        }
+      ]
+    }
+  ]
+}

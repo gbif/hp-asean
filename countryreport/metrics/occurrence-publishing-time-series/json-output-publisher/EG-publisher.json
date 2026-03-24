@@ -1,0 +1,73 @@
+{
+  "countryCode": "EG",
+  "countryName": "Egypt",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 5268
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 2716
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 4446
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 2356
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1744
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 4958
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 19643
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 28812
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 18399
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 17208
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 9567
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 10554
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 31943
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 48747
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 51983
+        }
+      ]
+    }
+  ]
+}

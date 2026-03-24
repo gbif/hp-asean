@@ -1,0 +1,73 @@
+{
+  "countryCode": "CX",
+  "countryName": "Christmas Island",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 164
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 404
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 31
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 985
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 140
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 252
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 888
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 552
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 807
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1906
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 830
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 961
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 2667
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 3989
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 2353
+        }
+      ]
+    }
+  ]
+}

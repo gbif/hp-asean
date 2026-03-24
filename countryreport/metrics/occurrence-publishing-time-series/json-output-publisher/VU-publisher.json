@@ -1,0 +1,228 @@
+{
+  "countryCode": "VU",
+  "countryName": "Vanuatu",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 81
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 557
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 297
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 303
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 2169
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 712
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 591
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1424
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1266
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1423
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 4894
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 12645
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 5637
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 3996
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 4543
+        }
+      ]
+    },
+    {
+      "group": "Ferns",
+      "data": [
+        {
+          "year": 2013,
+          "occurrenceCount": 10
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 53
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 2
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2011,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 6
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 374
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 263
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 312
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 46
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 37
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 125
+        }
+      ]
+    },
+    {
+      "group": "Gymnosperms",
+      "data": [
+        {
+          "year": 2013,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 16
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 8
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 25
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 28
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 40
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 119
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 319
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 63
+        }
+      ]
+    },
+    {
+      "group": "Molluscs",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 2
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2013,
+          "occurrenceCount": 17
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 6
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 72
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1
+        }
+      ]
+    },
+    {
+      "group": "Reptiles",
+      "data": [
+        {
+          "year": 2016,
+          "occurrenceCount": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "countryCode": "ML",
+  "countryName": "Mali",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 93
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 865
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1055
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 17
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 384
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 220
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 395
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 341
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 3316
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1207
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 270
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 140
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 143
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 460
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 4
+        }
+      ]
+    }
+  ]
+}

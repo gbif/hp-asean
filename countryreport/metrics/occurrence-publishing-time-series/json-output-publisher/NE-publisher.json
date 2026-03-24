@@ -1,0 +1,112 @@
+{
+  "countryCode": "NE",
+  "countryName": "Niger",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 77
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 152
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 84
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 25
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 136
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 189
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 109
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 439
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 428
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 354
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 56
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 323
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 293
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 123
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2014,
+          "occurrenceCount": 14
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 60
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2015,
+          "occurrenceCount": 195
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2012,
+          "occurrenceCount": 52
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 53
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "countryCode": "MR",
+  "countryName": "Mauritania",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 58
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 78
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 147
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 236
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 182
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 242
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2124
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 4952
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 2225
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1591
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1154
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 213
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 467
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 2982
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 5812
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 63
+        }
+      ]
+    }
+  ]
+}

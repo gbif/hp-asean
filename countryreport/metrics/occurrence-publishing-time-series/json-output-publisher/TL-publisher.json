@@ -1,0 +1,73 @@
+{
+  "countryCode": "TL",
+  "countryName": "Timor-Leste",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 659
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 292
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 105
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1005
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 356
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1852
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3081
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 3002
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 3730
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 7476
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 3923
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 3803
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3394
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 8102
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 5248
+        }
+      ]
+    }
+  ]
+}

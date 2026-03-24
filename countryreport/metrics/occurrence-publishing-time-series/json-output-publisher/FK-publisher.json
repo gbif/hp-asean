@@ -1,0 +1,73 @@
+{
+  "countryCode": "FK",
+  "countryName": "Falkland Islands (Malvinas)",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1998
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1404
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 2141
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1301
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 3883
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2720
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 4530
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 4355
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 17859
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 22148
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 21060
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 24669
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 43161
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 25517
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 29333
+        }
+      ]
+    }
+  ]
+}

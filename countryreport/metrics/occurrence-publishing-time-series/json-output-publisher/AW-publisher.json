@@ -1,0 +1,73 @@
+{
+  "countryCode": "AW",
+  "countryName": "Aruba",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1021
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1239
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1268
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 2821
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 4035
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 11406
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 14279
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 21289
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 23576
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 28310
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 31333
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 32700
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 34629
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 43562
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 34479
+        }
+      ]
+    }
+  ]
+}

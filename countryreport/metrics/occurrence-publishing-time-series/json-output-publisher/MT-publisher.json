@@ -1,0 +1,73 @@
+{
+  "countryCode": "MT",
+  "countryName": "Malta",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 700
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 569
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 435
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 611
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 853
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 144
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 458
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1017
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 5756
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 4689
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 3125
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 5889
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 6816
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 5683
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 7277
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 38638
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 32538
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 51168
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 55028
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 69118
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 101565
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 151932
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 227697
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 340093
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 519495
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 579695
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 621323
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 763837
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1142442
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1270328
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 117
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 141
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 496
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 177
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1218
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 3594
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3071
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 3517
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 2762
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1976
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1536
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1931
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 825
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 72
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 27
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 59
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 105
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 78
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 6
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 11
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 7
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2011,
+          "occurrenceCount": 367
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1064
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 12614
+        }
+      ]
+    }
+  ]
+}

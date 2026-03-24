@@ -1,0 +1,73 @@
+{
+  "countryCode": "BS",
+  "countryName": "Bahamas",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 7763
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 11449
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 11665
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 14527
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 20202
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 40138
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 68126
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 66125
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 84792
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 71464
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 51978
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 58179
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 72942
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 80071
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 85024
+        }
+      ]
+    }
+  ]
+}

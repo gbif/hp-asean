@@ -1,0 +1,212 @@
+{
+  "countryCode": "SJ",
+  "countryName": "Svalbard and Jan Mayen",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Arachnids",
+      "data": [
+        {
+          "year": 2019,
+          "occurrenceCount": 28
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 46
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 48
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 115
+        }
+      ]
+    },
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1005
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1075
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1282
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 2172
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 2567
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2836
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3660
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 3677
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 5595
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 9345
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 98
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1766
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 9625
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 10723
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 18425
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2022,
+          "occurrenceCount": 2479
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 2245
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2019,
+          "occurrenceCount": 28
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 46
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 48
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 59
+        }
+      ]
+    },
+    {
+      "group": "Molluscs",
+      "data": [
+        {
+          "year": 2017,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 27
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 70
+        }
+      ]
+    },
+    {
+      "group": "Mosses",
+      "data": [
+        {
+          "year": 2022,
+          "occurrenceCount": 315
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2017,
+          "occurrenceCount": 11
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 84
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 255
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 160
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 218
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 210
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 384
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 1152
+        }
+      ]
+    },
+    {
+      "group": "Sacfungi",
+      "data": [
+        {
+          "year": 2022,
+          "occurrenceCount": 6
+        }
+      ]
+    }
+  ]
+}

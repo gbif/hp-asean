@@ -1,0 +1,201 @@
+{
+  "countryCode": "GN",
+  "countryName": "Guinea",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 345
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 150
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1283
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 53
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1200
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 1382
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1033
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 2748
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 653
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1351
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1086
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3971
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1680
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1860
+        }
+      ]
+    },
+    {
+      "group": "Ferns",
+      "data": [
+        {
+          "year": 2011,
+          "occurrenceCount": 43
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 35
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 34
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 70
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 2575
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 2466
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 77
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 334
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 1594
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1102
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 17942
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 41
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 21
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2016,
+          "occurrenceCount": 106
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 104
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 42
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 6
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 14
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 120
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 2
+        }
+      ]
+    }
+  ]
+}

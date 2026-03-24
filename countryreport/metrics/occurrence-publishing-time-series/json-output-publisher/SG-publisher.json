@@ -1,0 +1,114 @@
+{
+  "countryCode": "SG",
+  "countryName": "Singapore",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 11383
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 10213
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 11642
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 10372
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 16826
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 21620
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 46223
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 70839
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 113385
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 102577
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 148832
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 189407
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 198667
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 205164
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 249910
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 3724
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 989
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 4062
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 109
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 4150
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 3570
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 5118
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 786
+        }
+      ]
+    }
+  ]
+}

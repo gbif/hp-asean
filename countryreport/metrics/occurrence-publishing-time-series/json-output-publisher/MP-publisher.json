@@ -1,0 +1,73 @@
+{
+  "countryCode": "MP",
+  "countryName": "Northern Mariana Islands",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 756
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 631
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 440
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 514
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 306
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2216
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2293
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 2633
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1655
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 2564
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 2914
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 9676
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 14125
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 6842
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 9143
+        }
+      ]
+    }
+  ]
+}

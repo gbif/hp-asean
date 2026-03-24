@@ -1,0 +1,73 @@
+{
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 9408
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 7163
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 12256
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 16805
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 15084
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 20818
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 38039
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 36266
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 58503
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 70051
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 19310
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 23482
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 83437
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 130629
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 149618
+        }
+      ]
+    }
+  ]
+}

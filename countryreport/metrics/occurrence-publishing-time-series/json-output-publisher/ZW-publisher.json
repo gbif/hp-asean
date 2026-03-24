@@ -1,0 +1,90 @@
+{
+  "countryCode": "ZW",
+  "countryName": "Zimbabwe",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 4084
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 10906
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 8259
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 6379
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 10751
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 11922
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 19150
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 23775
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 26081
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 34305
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 33179
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 52683
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 102052
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 96494
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 128744
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2016,
+          "occurrenceCount": 9
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 83
+        }
+      ]
+    }
+  ]
+}

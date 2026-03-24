@@ -1,0 +1,73 @@
+{
+  "countryCode": "DZ",
+  "countryName": "Algeria",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 10
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 58
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 10
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 64
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 670
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 3597
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2973
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 5839
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 5020
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 5983
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 2219
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1670
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3744
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 2864
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 7128
+        }
+      ]
+    }
+  ]
+}

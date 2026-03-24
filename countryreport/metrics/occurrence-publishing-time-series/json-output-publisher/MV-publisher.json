@@ -1,0 +1,73 @@
+{
+  "countryCode": "MV",
+  "countryName": "Maldives",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 23
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 50
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 114
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 68
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 49
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 128
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 82
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 218
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 390
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 745
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 346
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 745
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 1221
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1134
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1678
+        }
+      ]
+    }
+  ]
+}

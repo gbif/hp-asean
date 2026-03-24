@@ -1,0 +1,73 @@
+{
+  "countryCode": "BQ",
+  "countryName": "Bonaire, Sint Eustatius and Saba",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1033
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 2152
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1535
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 3349
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 4910
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 5734
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 8649
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 6404
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 8576
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 13637
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 13722
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 19194
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 33101
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 39713
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 46812
+        }
+      ]
+    }
+  ]
+}

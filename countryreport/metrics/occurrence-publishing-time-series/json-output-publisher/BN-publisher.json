@@ -1,0 +1,73 @@
+{
+  "countryCode": "BN",
+  "countryName": "Brunei Darussalam",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 240
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 102
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 413
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 826
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 628
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 608
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 163
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 589
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 460
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1504
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 487
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 541
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 1252
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 2412
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 4466
+        }
+      ]
+    }
+  ]
+}

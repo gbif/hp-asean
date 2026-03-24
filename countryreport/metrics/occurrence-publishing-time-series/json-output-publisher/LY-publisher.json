@@ -1,0 +1,57 @@
+{
+  "countryCode": "LY",
+  "countryName": "Libya",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1071
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 206
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 28
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 102
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 6
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 55
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 154
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 165
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 121
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 177
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "countryCode": "MF",
+  "countryName": "Saint Martin (French part)",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 157
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 126
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1588
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1949
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 2452
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 4195
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 4036
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 6066
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1888
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 3392
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1951
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 2600
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3415
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 6354
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 4056
+        }
+      ]
+    }
+  ]
+}

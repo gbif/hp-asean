@@ -1,0 +1,73 @@
+{
+  "countryCode": "MD",
+  "countryName": "Moldova, Republic of",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 9
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 91
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 166
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 297
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 241
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 240
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 6098
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 6029
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 5973
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 12125
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 13280
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 18082
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 18115
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 19613
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 10719
+        }
+      ]
+    }
+  ]
+}

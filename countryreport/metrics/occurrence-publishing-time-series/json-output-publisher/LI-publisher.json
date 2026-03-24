@@ -1,0 +1,73 @@
+{
+  "countryCode": "LI",
+  "countryName": "Liechtenstein",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 12
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 23
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 13
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 41
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 45
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 80
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 314
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 486
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 480
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 380
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 208
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 448
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 955
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1222
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1479
+        }
+      ]
+    }
+  ]
+}

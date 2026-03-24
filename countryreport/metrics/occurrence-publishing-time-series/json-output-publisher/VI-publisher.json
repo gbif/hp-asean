@@ -1,0 +1,73 @@
+{
+  "countryCode": "VI",
+  "countryName": "Virgin Islands (U.S.)",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 3556
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 3945
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 6315
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 4738
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 8024
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 7325
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 9315
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 9438
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 9918
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 12176
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 8277
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 11551
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 16813
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 16293
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 15563
+        }
+      ]
+    }
+  ]
+}

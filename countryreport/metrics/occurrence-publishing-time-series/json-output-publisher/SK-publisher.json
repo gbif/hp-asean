@@ -1,0 +1,594 @@
+{
+  "countryCode": "SK",
+  "countryName": "Slovakia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Amphibians",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 6
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 26
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 8
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 20
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 38
+        }
+      ]
+    },
+    {
+      "group": "Arachnids",
+      "data": [
+        {
+          "year": 2024,
+          "occurrenceCount": 235
+        }
+      ]
+    },
+    {
+      "group": "Basidiomycota",
+      "data": [
+        {
+          "year": 2024,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 1
+        }
+      ]
+    },
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 627
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1297
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1146
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1441
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1666
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2648
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 5118
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 4688
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 6385
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 25445
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 54486
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 104820
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 103234
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 118549
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 139459
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 73
+        }
+      ]
+    },
+    {
+      "group": "Ferns",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 311
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 396
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 343
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 2096
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1652
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1948
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 268
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 364
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 471
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 393
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 339
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1745
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 2322
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 3086
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 401
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 33
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 20438
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 19360
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 14849
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 94891
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 130145
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 156985
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 13660
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 28036
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 34827
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 42712
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 25201
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 93368
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 180073
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 195037
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 47999
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 1368
+        }
+      ]
+    },
+    {
+      "group": "Gymnosperms",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 197
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 129
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 67
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 2919
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 3874
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 5384
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 195
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 676
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 710
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 744
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 321
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 3952
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 6220
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 8058
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 996
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 63
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2014,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 8
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 12
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 113
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1770
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 2162
+        }
+      ]
+    },
+    {
+      "group": "Mammals",
+      "data": [
+        {
+          "year": 2014,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 4
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 6
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 25
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 23
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 22
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 40
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 101
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 1017
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 49
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 42
+        }
+      ]
+    },
+    {
+      "group": "Molluscs",
+      "data": [
+        {
+          "year": 2014,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 7
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1
+        }
+      ]
+    },
+    {
+      "group": "Mosses",
+      "data": [
+        {
+          "year": 2021,
+          "occurrenceCount": 16
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 9
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 329
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 401
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 171
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1487
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1184
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1785
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 55
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 169
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 262
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 249
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 105
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 1092
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 2461
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1618
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 507
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 153
+        }
+      ]
+    },
+    {
+      "group": "Reptiles",
+      "data": [
+        {
+          "year": 2022,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 7
+        }
+      ]
+    },
+    {
+      "group": "Sacfungi",
+      "data": [
+        {
+          "year": 2022,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2025,
+          "occurrenceCount": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "countryCode": "IR",
+  "countryName": "Iran (Islamic Republic of)",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1706
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 2338
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 6391
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 10374
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 14299
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 21058
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 41539
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 30423
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 27983
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 47806
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 52577
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 87348
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 101256
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 100278
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 108502
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 6
+        }
+      ]
+    },
+    {
+      "group": "Molluscs",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 9
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 202
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 31
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 215
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 444
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 92
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 472
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 51
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 390
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 10
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 5
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 34
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 2
+        }
+      ]
+    }
+  ]
+}

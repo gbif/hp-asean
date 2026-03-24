@@ -1,0 +1,125 @@
+{
+  "countryCode": "LB",
+  "countryName": "Lebanon",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 44
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 114
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 137
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 170
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 82
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 287
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 449
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1268
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 2525
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 6990
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 5876
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 9078
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 8860
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 13626
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 7055
+        }
+      ]
+    },
+    {
+      "group": "Ferns",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 25
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 117
+        }
+      ]
+    },
+    {
+      "group": "Floweringplants",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 837
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 3714
+        }
+      ]
+    },
+    {
+      "group": "Gymnosperms",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 35
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 107
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2018,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 8
+        }
+      ]
+    }
+  ]
+}

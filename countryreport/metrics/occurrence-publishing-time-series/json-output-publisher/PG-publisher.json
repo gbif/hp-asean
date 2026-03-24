@@ -1,0 +1,73 @@
+{
+  "countryCode": "PG",
+  "countryName": "Papua New Guinea",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 43074
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 28175
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 26632
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 12173
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 20782
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 13993
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 26347
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 24780
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 26599
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 31863
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 484
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 410
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 47164
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 67324
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 70885
+        }
+      ]
+    }
+  ]
+}

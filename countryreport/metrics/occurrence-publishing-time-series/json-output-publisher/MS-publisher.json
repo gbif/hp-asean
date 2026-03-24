@@ -1,0 +1,73 @@
+{
+  "countryCode": "MS",
+  "countryName": "Montserrat",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 9
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 38
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 7
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 368
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 4188
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 5455
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 4318
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 3891
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 323
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 532
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1850
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 4363
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 5397
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 5374
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 2042
+        }
+      ]
+    }
+  ]
+}

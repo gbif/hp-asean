@@ -1,0 +1,90 @@
+{
+  "countryCode": "BZ",
+  "countryName": "Belize",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 39292
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 62036
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 60752
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 82424
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 132256
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 157681
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 302576
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 488401
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 849892
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 1020635
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 668083
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 706841
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 755146
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 777606
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 909152
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 2
+        }
+      ]
+    }
+  ]
+}

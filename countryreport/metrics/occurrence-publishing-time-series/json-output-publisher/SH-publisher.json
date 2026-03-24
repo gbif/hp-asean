@@ -1,0 +1,73 @@
+{
+  "countryCode": "SH",
+  "countryName": "Saint Helena, Ascension and Tristan da Cunha",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 3
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 73
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 176
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 78
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 229
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 540
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 180
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1084
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 457
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 146
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 145
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 360
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1268
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 6507
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "countryCode": "LC",
+  "countryName": "Saint Lucia",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 654
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1703
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 950
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 2129
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 2194
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 3806
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 3081
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 4221
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 6123
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 4890
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 4720
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 6426
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 11313
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 13202
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 18510
+        }
+      ]
+    }
+  ]
+}

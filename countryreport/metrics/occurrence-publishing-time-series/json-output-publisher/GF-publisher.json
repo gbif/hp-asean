@@ -1,0 +1,140 @@
+{
+  "countryCode": "GF",
+  "countryName": "French Guiana",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Basidiomycota",
+      "data": [
+        {
+          "year": 2011,
+          "occurrenceCount": 99
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 718
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1100
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 1396
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 672
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 1188
+        }
+      ]
+    },
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 1582
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 1178
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1025
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 616
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 2268
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 1848
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 2212
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 9766
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 14074
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 20736
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 29610
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 32574
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 22987
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 41998
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 43204
+        }
+      ]
+    },
+    {
+      "group": "Insects",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 425
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 789
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 40
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 78
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 14
+        }
+      ]
+    },
+    {
+      "group": "Other",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 23
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 3
+        }
+      ]
+    }
+  ]
+}

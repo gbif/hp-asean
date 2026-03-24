@@ -1,0 +1,73 @@
+{
+  "countryCode": "BF",
+  "countryName": "Burkina Faso",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 284
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 250
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 1558
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 1112
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 141
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 142
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 9
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 203
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 1637
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 283
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 1237
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 3579
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 3136
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 1344
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 1795
+        }
+      ]
+    }
+  ]
+}

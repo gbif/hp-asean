@@ -1,0 +1,73 @@
+{
+  "countryCode": "AI",
+  "countryName": "Anguilla",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2010,
+          "occurrenceCount": 307
+        },
+        {
+          "year": 2011,
+          "occurrenceCount": 184
+        },
+        {
+          "year": 2012,
+          "occurrenceCount": 166
+        },
+        {
+          "year": 2013,
+          "occurrenceCount": 262
+        },
+        {
+          "year": 2014,
+          "occurrenceCount": 391
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 441
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 658
+        },
+        {
+          "year": 2017,
+          "occurrenceCount": 1072
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 7975
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 2882
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 2999
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 4606
+        },
+        {
+          "year": 2022,
+          "occurrenceCount": 5226
+        },
+        {
+          "year": 2023,
+          "occurrenceCount": 5961
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 7494
+        }
+      ]
+    }
+  ]
+}

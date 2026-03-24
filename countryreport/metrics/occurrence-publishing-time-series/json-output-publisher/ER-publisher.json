@@ -1,0 +1,45 @@
+{
+  "countryCode": "ER",
+  "countryName": "Eritrea",
+  "dataType": "PUBLISHER",
+  "lastModified": "2026-02-13",
+  "taxonomicGroups": [
+    {
+      "group": "Birds",
+      "data": [
+        {
+          "year": 2014,
+          "occurrenceCount": 2
+        },
+        {
+          "year": 2015,
+          "occurrenceCount": 51
+        },
+        {
+          "year": 2016,
+          "occurrenceCount": 12
+        },
+        {
+          "year": 2018,
+          "occurrenceCount": 52
+        },
+        {
+          "year": 2019,
+          "occurrenceCount": 989
+        },
+        {
+          "year": 2020,
+          "occurrenceCount": 513
+        },
+        {
+          "year": 2021,
+          "occurrenceCount": 54
+        },
+        {
+          "year": 2024,
+          "occurrenceCount": 49
+        }
+      ]
+    }
+  ]
+}
