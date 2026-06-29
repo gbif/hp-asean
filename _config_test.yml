@@ -6,9 +6,11 @@ graphqlEndpoint: "https://graphql.gbif-test.org/graphql" # for use with e.g. new
 
 include: 
   - id/ # include languages that are excluded in production. this is useful for testing purposes
-  - kh/
-  - la/
-  - mm/
-  - my/
-  - th/
-  - vn/
+  - kh/ # Cambodia
+  - la/ # Lao PDR
+  - mm/ # Myanmar
+  - my/ # Malaysia
+  - th/ # Thailand
+  - vn/ # Vietnam
+  - tl/ #Timor-Leste
+- config/ # include any other config files that are needed for testing, e.g. to override production config values
