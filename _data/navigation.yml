@@ -79,30 +79,6 @@
       href: /occurrence/search?country=TL
     - text: Vietnam
       href: /occurrence/search?country=VN
-# - text: ASEAN Heritage Parks
-  # menu:
-    # - text: Brunei Darussalam
-      # - href: /occurrence/search?country=#
-    # - text: Cambodia
-     # - href: /occurrence/search?country=#
-    # - text: Indonesia
-      # - href: /occurrence/search?country=#
-    # - text: Lao PDR
-      # href: /occurrence/search?country=#
-    # - text: Malaysia
-      # href: /occurrence/search?country=#
-    # - text: Myanmar
-      # href: /occurrence/search?country=#
-    # - text: Philippines
-      # href: /occurrence/search?country=#
-    # - text: Singapore
-      # href: /occurrence/search?country=#
-    # - text: Thailand
-      # href: /occurrence/search?country=#
-    # - text: Timor-Leste
-      # href: /occurrence/search?country=#
-    # - text: Vietnam
-      # href: /occurrence/search?country=#
 - text: Tools
   menu:
     - text: Integrated Publishing Toolkit IPT
