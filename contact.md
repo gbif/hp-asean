@@ -13,8 +13,7 @@ height: 70vh
 
 Biodiversity Informatics and Geospatial Analysis Division <br>
 ASEAN Centre for Biodiversity <br>
-
-xxKit Elloran <br>
+Kit Elloran <br>
 Director <br>
 cbelloran@aseanbiodiversity.org <br>
 
