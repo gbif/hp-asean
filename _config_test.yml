@@ -4,13 +4,16 @@ useSharedLibrary: true # Use the new component library
 testSite: true #style the site to show that it is a test site
 graphqlEndpoint: "https://graphql.gbif-test.org/graphql" # for use with e.g. new stories from GBIF.org
 
-include: 
-  - id/ # include languages that are excluded in production. this is useful for testing purposes
+include: # include languages that are excluded in production. this is useful for testing purposes
+  - bn/ # Brunei Darussalam
+  - id/ # Indonesia
   - kh/ # Cambodia
   - la/ # Lao PDR
   - mm/ # Myanmar
   - my/ # Malaysia
+  - ph/ # Philippines
+  - sg/ # Singapore
   - th/ # Thailand
+  - tl/ # Timor-Leste
   - vn/ # Vietnam
-  - tl/ #Timor-Leste
 - config/ # include any other config files that are needed for testing, e.g. to override production config values
