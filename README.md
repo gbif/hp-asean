@@ -15,5 +15,7 @@ You can find information on editing this site and more on [gbif/hosted-portals](
 > Powered by [GBIF](https://www.gbif.org/)
 
 > Techical contact
+
 > Update by : Kit Eloran
+
 > email : cbelloran@aseanbiodiversity.org
