@@ -13,3 +13,7 @@ This Jekyll website, **[hp-asean](https://asean.hp.gbif-staging.org/)**, makes u
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
 > Powered by [GBIF](https://www.gbif.org/)
+
+Techical contact
+Update by : Kit Eloran
+email : cbelloran@aseanbiodiversity.org
