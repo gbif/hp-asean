@@ -16,4 +16,3 @@ include: # include languages that are excluded in production. this is useful for
   - th/ # Thailand
   - tl/ # Timor-Leste
   - vn/ # Vietnam
-- config/ # include any other config files that are needed for testing, e.g. to override production config values
