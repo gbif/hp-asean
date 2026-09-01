@@ -83,6 +83,8 @@
   menu:
     - text: Integrated Publishing Toolkit IPT
       href: https://ipt.aseanbiodiversity.org
+    - text: Carbon Measurement
+      href: https://acb.wri-indonesia.id
     - text: Web Mapping Service
       href: https://wms.aseanbiodiversity.org
     - text: GeoJson Tool
