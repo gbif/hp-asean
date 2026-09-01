@@ -82,7 +82,7 @@
 - text: Tools
   menu:
     - text: Integrated Publishing Toolkit IPT
-      href: https://bkmd.aseanbiodiversity.org/ipt/
+      href: https://ipt.aseanbiodiversity.org
     - text: GeoJson Tool
       href: https://geojson.io/#map=3.52/10.32/113.46
     - text: MapShaper Tool
