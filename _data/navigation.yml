@@ -82,11 +82,15 @@
 - text: Tools
   menu:
     - text: Integrated Publishing Toolkit IPT
-      href: https://bkmd.aseanbiodiversity.org/ipt/
+      href: https://ipt.aseanbiodiversity.org
+    - text: Carbon Measurement
+      href: https://acb.wri-indonesia.id
+    - text: Web Mapping Service
+      href: https://wms.aseanbiodiversity.org
     - text: GeoJson Tool
       href: https://geojson.io/#map=3.52/10.32/113.46
     - text: MapShaper Tool
-      href: https://mapshaper.org/
+      href: https://mapshaper.org
 #- text: News
   # href: /news
 - text: FAQs
