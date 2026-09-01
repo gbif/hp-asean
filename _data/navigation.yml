@@ -83,7 +83,7 @@
   menu:
     - text: Integrated Publishing Toolkit IPT
       href: https://ipt.aseanbiodiversity.org
-    - text: Web Mapping Server
+    - text: Web Mapping Service
       href: https://wms.aseanbiodiversity.org
     - text: GeoJson Tool
       href: https://geojson.io/#map=3.52/10.32/113.46
