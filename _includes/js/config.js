@@ -1,7 +1,6 @@
 var siteTheme = gbifReactComponents.themeBuilder.extend({
   baseTheme: 'light', extendWith: {
-    primary: '#d6b11b'
-    /* primary: themeStyle.colors.primary */
+    primary: themeStyle.colors.primary
   }
 });
 
