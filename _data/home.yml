@@ -53,6 +53,34 @@ main:
             image: "/assets/images/Erick Navarro_A Fight To Survive.png",
             copyright: "ASEAN Biodiversity Dashboard"
         }
+        {
+            image: "/assets/images/Zaw-Min-Tun-I-Got-It.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        }
+        {
+            image: "/assets/images/Jerian Dale Figueroa_Wild ride.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        }
+        {
+            image: "/assets/images/Indra hadiyana_Polypedates otilophus.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        }
+        {
+            image: "/assets/images/Indra hadiyana_Bekantan.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        }
+        {
+            image: "/assets/images/Ho Phooi Leng_I will follow you.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        }
+        {
+            image: "/assets/images/Ho Phooi Leng_I believe I can fly.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        }
+        {
+            image: "/assets/images/Daniel Ocampo_Resting Sea turtle.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        }
     ];
     function changeBanner() {
 
