@@ -91,17 +91,95 @@ main:
     })();
     </script>
 
-    <div class="feature-img">
-        <img src="assets/images/Soe Mg Mg Zaw_Father Love 2.jpg" height="250">
-        <div class="feature-img-license">
-            <div class="feature-img-license-c">
-                <span class="icon"><i class="fa fa-info-circle"></i></span>
-            </div>
-            <div class="feature-img-license-text">
-                <p>Copyright Zooming In on Biodiversity : Soe Mg Mg Zaw</p>
-            </div>
+    //<div class="feature-img">
+      //  <img src="assets/images/Soe Mg Mg Zaw_Father Love 2.jpg" height="250">
+        //<div class="feature-img-license">
+          //  <div class="feature-img-license-c">
+            //    <span class="icon"><i class="fa fa-info-circle"></i></span>
+            //</div>
+            //<div class="feature-img-license-text">
+              //  <p>Copyright Zooming In on Biodiversity : Soe Mg Mg Zaw</p>
+            //</div>
+        //</div>
+    //</div>
+
+
+<div class="feature-img" id="homepage-banner">
+
+    <img id="random-banner-image"
+         src="/assets/images/Soe Mg Mg Zaw_Father Love 2.jpg"
+         height="250"
+         alt="ASEAN Biodiversity">
+
+    <div class="feature-img-license">
+        <div class="feature-img-license-c">
+            <span class="icon">
+                <i class="fa fa-info-circle"></i>
+            </span>
+        </div>
+
+        <div class="feature-img-license-text">
+            <p id="banner-copyright">
+                Copyright Zooming In on Biodiversity : Soe Mg Mg Zaw
+            </p>
         </div>
     </div>
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    const banners = [
+        {
+            image: "/assets/images/Ari Kustiawan_Coconut Rhinoceros Beetle.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        },
+        {
+            image: "/assets/images/Arturo De Vera Jr_Monfort Bat Sanctuary.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        },
+        {
+            image: "/assets/images/Ho Phooi Leng_I believe I can fly.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        },
+        {
+            image: "/assets/images/Ho Phooi Leng_I will follow you.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        },
+        {
+            image: "/assets/images/Pang Kok Wei_Rhombodera basalis known as Malaysian shield mantis.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        }
+    ];
+
+    const imageElement =
+        document.getElementById("random-banner-image");
+
+    const copyrightElement =
+        document.getElementById("banner-copyright");
+
+    // Select a random banner
+    const selected =
+        banners[Math.floor(Math.random() * banners.length)];
+
+    // Preload before displaying
+    const preload = new Image();
+
+    preload.onload = function () {
+        imageElement.src = selected.image;
+        copyrightElement.textContent = selected.copyright;
+    };
+
+    preload.onerror = function () {
+        console.error("Unable to load banner:", selected.image);
+    };
+
+    preload.src = selected.image;
+
+});
+</script>
+
     <div class="feature-content">
         <h2 class="home-feature-title">ASEAN Biodiversity Dashboard</h2>
         <font size="5">ASEAN Species Collections</font><br>
