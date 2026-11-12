@@ -34,23 +34,23 @@ main:
     (function () {
     const banners = [
         {
-            image: "/assets/images/banners/banner1.jpg",
+            image: "/assets/images/Myat Zaw Hein_Parental Love.jpg",
             copyright: "ASEAN Biodiversity Dashboard"
         },
         {
-            image: "/assets/images/banners/banner2.jpg",
+            image: "/assets/images/Pang Kok Wei_Rhombodera basalis known as Malaysian shield mantis 2.jpg",
             copyright: "ASEAN Biodiversity Dashboard"
         },
         {
-            image: "/assets/images/banners/banner3.jpg",
+            image: "/assets/images/Pang Kok Wei_The Elegant Mantises.jpg",
             copyright: "ASEAN Biodiversity Dashboard"
         },
         {
-            image: "/assets/images/banners/banner4.jpg",
+            image: "/assets/images/Indra hadiyana_Varanus salvator.jpg",
             copyright: "ASEAN Biodiversity Dashboard"
         },
         {
-            image: "/assets/images/banners/banner5.jpg",
+            image: "/assets/images/Erick Navarro_A Fight To Survive.png",
             copyright: "ASEAN Biodiversity Dashboard"
         }
     ];
