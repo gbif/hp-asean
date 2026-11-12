@@ -32,75 +32,55 @@ main:
   markdownContent: |
     <script>
     (function () {
-    const banners = [
-        {
-            image: "/assets/images/Myat Zaw Hein_Parental Love.jpg",
-            copyright: "Myat Zaw Hein"
-        },
-        {
-            image: "/assets/images/Pang Kok Wei_Rhombodera basalis known as Malaysian shield mantis 2.jpg",
-            copyright: "Pang Kok Wei"
-        },
-        {
-            image: "/assets/images/Pang Kok Wei_The Elegant Mantises.jpg",
-            copyright: "Pang Kok Wei"
-        },
-        {
-            image: "/assets/images/Indra hadiyana_Varanus salvator.jpg",
-            copyright: "Indra hadiyana"
-        },
-        {
-            image: "/assets/images/Erick Navarro_A Fight To Survive.png",
-            copyright: "Erick Navarro"
-        }
+    const bannerFolder = "/assets/images/";
+    const bannerFiles = [
+        "Myat Zaw Hein_Parental Love.jpg",
+        "Pang Kok Wei_Rhombodera basalis known as Malaysian shield mantis 2.jpg",
+        "Pang Kok Wei_The Elegant Mantises.jpg",
+        "Indra hadiyana_Varanus salvator.jpg",
+        "Erick Navarro_A Fight To Survive.png",
+        "Daniel Ocampo_Resting Sea turtle.jpg",
+        "Ho Phooi Leng_I believe I can fly.jpg",
+        "Ho Phooi Leng_I will follow you.jpg",
+        "Indra hadiyana_Bekantan.jpg",
+        "Indra hadiyana_Polypedates otilophus.jpg",
+        "Indra hadiyana_Varanus salvator.jpg",
+        "Jerian Dale Figueroa_Wild ride.jpg",
+        "Thin Thin Tun_Insect 6.jpg",
+        "Abdelnasser K. Aming_Kulisih.jpg",
+        "Ari Kustiawan_Coconut Rhinoceros Beetle.jpg",
+        "Arturo De Vera Jr_Monfort Bat Sanctuary.jpg"
     ];
-    function changeBanner() {
-
+    function randomBanner() {
         const imageElement =
             document.getElementById("random-banner-image");
-
-        const copyrightElement =
-            document.getElementById("banner-copyright");
-
-        if (!imageElement || !banners.length) return;
-
-        // Select random banner
+        if (!imageElement || bannerFiles.length === 0) return;
         const randomIndex =
-            Math.floor(Math.random() * banners.length);
-
-        const selectedBanner = banners[randomIndex];
-
-        // Preload selected image
-        const newImage = new Image();
-
-        newImage.onload = function () {
-
-            imageElement.src = selectedBanner.image;
-
-            if (copyrightElement) {
-                copyrightElement.textContent =
-                    selectedBanner.copyright;
-            }
+            Math.floor(Math.random() * bannerFiles.length);
+        const selectedImage =
+            bannerFolder + bannerFiles[randomIndex];
+        const preloadImage = new Image();
+        preloadImage.onload = function () {
+            imageElement.src = selectedImage;
         };
-
-        newImage.onerror = function () {
+        preloadImage.onerror = function () {
             console.error(
-                "Banner image failed to load:",
-                selectedBanner.image
+                "Banner image not found:",
+                selectedImage
             );
         };
-
-        newImage.src = selectedBanner.image;
+        preloadImage.src = selectedImage;
     }
 
     if (document.readyState === "loading") {
         document.addEventListener(
             "DOMContentLoaded",
-            changeBanner
+            randomBanner
         );
     } else {
-        changeBanner();
+        randomBanner();
     }
+
     })();
     function switchToSpecimens() {
       document.getElementById("home-search-form").action = "/occurrence/search";
