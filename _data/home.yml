@@ -53,34 +53,6 @@ main:
             image: "/assets/images/Erick Navarro_A Fight To Survive.png",
             copyright: "Erick Navarro"
         }
-        {
-            image: "/assets/images/Zaw-Min-Tun-I-Got-It.jpg",
-            copyright: "Zaw-Min-Tun"
-        }
-        {
-            image: "/assets/images/Jerian Dale Figueroa_Wild ride.jpg",
-            copyright: "Jerian Dale Figueroa"
-        }
-        {
-            image: "/assets/images/Indra hadiyana_Polypedates otilophus.jpg",
-            copyright: "Indra hadiyana"
-        }
-        {
-            image: "/assets/images/Indra hadiyana_Bekantan.jpg",
-            copyright: "Indra hadiyana"
-        }
-        {
-            image: "/assets/images/Ho Phooi Leng_I will follow you.jpg",
-            copyright: "Ho Phooi Leng"
-        }
-        {
-            image: "/assets/images/Ho Phooi Leng_I believe I can fly.jpg",
-            copyright: "Ho Phooi Leng"
-        }
-        {
-            image: "/assets/images/Daniel Ocampo_Resting Sea turtle.jpg",
-            copyright: "Daniel Ocampo"
-        }
     ];
     function changeBanner() {
 
