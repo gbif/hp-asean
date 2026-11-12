@@ -49,7 +49,12 @@ main:
         "Thin Thin Tun_Insect 6.jpg",
         "Abdelnasser K. Aming_Kulisih.jpg",
         "Ari Kustiawan_Coconut Rhinoceros Beetle.jpg",
-        "Arturo De Vera Jr_Monfort Bat Sanctuary.jpg"
+        "Arturo De Vera Jr_Monfort Bat Sanctuary.jpg",
+        "Aung Chan Thar_Together.jpg",
+        "Aung Pyii Zone_Sunbird family.jpg",
+        "Daniel Ocampo_Clownfish Mane.jpg",
+        "ERIC CLAIRE T. SELPA_The Mindanao Flying Frog.jpg",
+        "Erick Navarro_A Fight To Survive.png"
     ];
     function randomBanner() {
         const imageElement =
