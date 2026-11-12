@@ -37,6 +37,23 @@ url: "https://dashboard-hp.aseanbiodiversity.org" # the base hostname & protocol
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Random Homepage Banner Configuration
+# By Kit Elloran
+# Nov. 12, 2026
+banner:
+  enabled: true
+  images:
+    - image: "/assets/images/Ari Kustiawan_Coconut Rhinoceros Beetle.jpg"
+      alt: "Ari Kustiawan Coconut Rhinoceros Beetle"
+    - image: "/assets/images/Arturo De Vera Jr_Monfort Bat Sanctuary.jpg"
+      alt: "Arturo De Vera Jr_Monfort Bat Sanctuary"
+    - image: "/assets/images/Ho Phooi Leng_I believe I can fly.jpg"
+      alt: "Ho Phooi Leng I believe I can fly"
+    - image: "/assets/images/Ho Phooi Leng_I will follow you.jpg"
+      alt: "Ho Phooi Leng I will follow you"
+    - image: "/assets/images/Pang Kok Wei_Rhombodera basalis known as Malaysian shield mantis.jpg"
+      alt: "Pang Kok Wei Rhombodera basalis known as Malaysian shield mantis"
+
 # Build settings
 theme: minima
 plugins:
