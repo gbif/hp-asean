@@ -35,51 +35,51 @@ main:
     const banners = [
         {
             image: "/assets/images/Myat Zaw Hein_Parental Love.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Myat Zaw Hein"
         },
         {
             image: "/assets/images/Pang Kok Wei_Rhombodera basalis known as Malaysian shield mantis 2.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Pang Kok Wei"
         },
         {
             image: "/assets/images/Pang Kok Wei_The Elegant Mantises.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Pang Kok Wei"
         },
         {
             image: "/assets/images/Indra hadiyana_Varanus salvator.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Indra hadiyana"
         },
         {
             image: "/assets/images/Erick Navarro_A Fight To Survive.png",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Erick Navarro"
         }
         {
             image: "/assets/images/Zaw-Min-Tun-I-Got-It.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Zaw-Min-Tun"
         }
         {
             image: "/assets/images/Jerian Dale Figueroa_Wild ride.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Jerian Dale Figueroa"
         }
         {
             image: "/assets/images/Indra hadiyana_Polypedates otilophus.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Indra hadiyana"
         }
         {
             image: "/assets/images/Indra hadiyana_Bekantan.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Indra hadiyana"
         }
         {
             image: "/assets/images/Ho Phooi Leng_I will follow you.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Ho Phooi Leng"
         }
         {
             image: "/assets/images/Ho Phooi Leng_I believe I can fly.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Ho Phooi Leng"
         }
         {
             image: "/assets/images/Daniel Ocampo_Resting Sea turtle.jpg",
-            copyright: "ASEAN Biodiversity Dashboard"
+            copyright: "Copyright Zooming In on Biodiversity : Daniel Ocampo"
         }
     ];
     function changeBanner() {
