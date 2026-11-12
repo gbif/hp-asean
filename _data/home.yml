@@ -91,17 +91,17 @@ main:
     })();
     </script>
 
-    <div class="feature-img">
-      <img src="assets/images/Soe Mg Mg Zaw_Father Love 2.jpg" height="250">
-        <div class="feature-img-license">
-          <div class="feature-img-license-c">
-                <span class="icon"><i class="fa fa-info-circle"></i></span>
-            </div>
-            <div class="feature-img-license-text">
-               <p>Copyright Zooming In on Biodiversity : Soe Mg Mg Zaw</p>
-            </div>
-        </div>
-    </div>
+    //<div class="feature-img">
+      //<img src="assets/images/Soe Mg Mg Zaw_Father Love 2.jpg" height="250">
+        //<div class="feature-img-license">
+          //<div class="feature-img-license-c">
+                //<span class="icon"><i class="fa fa-info-circle"></i></span>
+            //</div>
+            //<div class="feature-img-license-text">
+               //<p>Copyright Zooming In on Biodiversity : Soe Mg Mg Zaw</p>
+            //</div>
+        //</div>
+    //</div>
 
     <div class="feature-content">
         <h2 class="home-feature-title">ASEAN Biodiversity Dashboard</h2>
