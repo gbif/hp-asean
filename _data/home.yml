@@ -31,6 +31,78 @@ main:
   # Previous version of search : # document.getElementById("home-search-form").action = "/specimen/search";
   markdownContent: |
     <script>
+    (function () {
+    const banners = [
+        {
+            image: "/assets/images/banners/banner1.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        },
+        {
+            image: "/assets/images/banners/banner2.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        },
+        {
+            image: "/assets/images/banners/banner3.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        },
+        {
+            image: "/assets/images/banners/banner4.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        },
+        {
+            image: "/assets/images/banners/banner5.jpg",
+            copyright: "ASEAN Biodiversity Dashboard"
+        }
+    ];
+    function changeBanner() {
+
+        const imageElement =
+            document.getElementById("random-banner-image");
+
+        const copyrightElement =
+            document.getElementById("banner-copyright");
+
+        if (!imageElement || !banners.length) return;
+
+        // Select random banner
+        const randomIndex =
+            Math.floor(Math.random() * banners.length);
+
+        const selectedBanner = banners[randomIndex];
+
+        // Preload selected image
+        const newImage = new Image();
+
+        newImage.onload = function () {
+
+            imageElement.src = selectedBanner.image;
+
+            if (copyrightElement) {
+                copyrightElement.textContent =
+                    selectedBanner.copyright;
+            }
+
+        };
+
+        newImage.onerror = function () {
+            console.error(
+                "Banner image failed to load:",
+                selectedBanner.image
+            );
+        };
+
+        newImage.src = selectedBanner.image;
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener(
+            "DOMContentLoaded",
+            changeBanner
+        );
+    } else {
+        changeBanner();
+    }
+    })();
     function switchToSpecimens() {
       document.getElementById("home-search-form").action = "/occurrence/search";
       document.getElementById("home-search-input").placeholder = "e.g. Scientific names, common names, countries";
@@ -91,16 +163,23 @@ main:
     })();
     </script>
 
-    <div class="feature-img">
-      <img src="assets/images/Soe Mg Mg Zaw_Father Love 2.jpg" height="250">
-        <div class="feature-img-license">
-          <div class="feature-img-license-c">
-                <span class="icon"><i class="fa fa-info-circle"></i></span>
-            </div>
-            <div class="feature-img-license-text">
-               <p>Copyright Zooming In on Biodiversity : Soe Mg Mg Zaw</p>
-            </div>
+    <div class="feature-img" id="homepage-banner">
+
+    <img
+        id="random-banner-image" src="/assets/images/Soe Mg Mg Zaw_Father Love 2.jpg" alt="ASEAN Biodiversity Dashboard" style="width:100%; height:250px; object-fit:cover;">
+    <div class="feature-img-license">
+        <div class="feature-img-license-c">
+            <span class="icon">
+                <i class="fa fa-info-circle"></i>
+            </span>
         </div>
+
+        <div class="feature-img-license-text">
+            <p id="banner-copyright">
+                Copyright Zooming In on Biodiversity : Soe Mg Mg Zaw
+            </p>
+        </div>
+    </div>
     </div>
 
     <div class="feature-content">
