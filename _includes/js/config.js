@@ -156,6 +156,17 @@ var siteConfig = {
       "cmsLocale": "en-GB",
       "gbifOrgLocalePrefix": "",
       "mapTileLocale": "en"
+    },
+    {
+      "code": "tl",
+      "localeCode": "en",
+      "label": "Timor-Leste",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
     }
   ],
   "messages": {},
