@@ -32,7 +32,6 @@ $dark-bg: #FFFFFF;
   }
 }
 
-
 /* Main website background */
 /* ##### Template home ###### */
 /* ##### Template home ###### */
@@ -49,7 +48,7 @@ $dark-bg: #FFFFFF;
 /* Remove unnecessary spacing */
 main {
     margin-top: 0 !important;
-    padding-top: 0 !important;
+    padding-top: -100 !important;
 }
 
 /* Ensure content is visible */
