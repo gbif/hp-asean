@@ -26,9 +26,7 @@ $dark-bg: #FFFFFF;
 }
 
 //$dark-bg: #272C33;
-
-//Se define el tipo de letra para el sitio
-
+//Template
 body, button, input, select, textarea {
   font-family: 'Lato', sans-serif;
 //  font-family: 'Barlow Condensed', sans-serif;
@@ -53,7 +51,6 @@ body, button, input, select, textarea {
   flex-grow: unset;
 	margin: auto;
 }
-
 
 // You can add additional styling here
 .navbar-item.navbar-logo {
