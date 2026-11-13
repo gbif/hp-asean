@@ -30,6 +30,33 @@ $dark-bg: #272C33;
   }
 }
 
+
+/* Main website background */
+/* ##### Template home ###### */
+body {
+    background-color: #ffffff !important;
+}
+
+/* Main content area */
+main,
+.main-content,
+.container {
+    background-color: #ffffff;
+}
+
+/* Reduce unnecessary vertical spacing */
+main {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/* Footer background */
+footer {
+    background-color: #173b32 !important;
+    color: #ffffff;
+}
+/* ####### Test home layout ##### */
+
 .contentTypesStat {
   .statistics-cards {
     justify-content: space-between;
@@ -482,7 +509,7 @@ ASEAN Centre for Biodiversity
 */
 
 // Configuration for Cards in Home pge //
-
+/*
 $card-text-color: #0C0C0C;
 article.feature{
     display: flex;
@@ -524,4 +551,4 @@ article.feature{
         padding-top: 1em !important;
     }
 }
-
+*/
