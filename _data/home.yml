@@ -1,9 +1,6 @@
 latest:
   title: Biodiversity Data Mobilisation
 composition:
-  - type: latestPosts
-    data: home
-    height: 400px
   #- type: blank
    # data: home.main
     # href: https://dashboard.aseanbiodiversity.org/
@@ -152,7 +149,8 @@ main:
     </script>
 
     <div class="feature-img" id="homepage-banner">
-    <img id="random-banner-image" alt="ASEAN Biodiversity Dashboard" style="width:100%; height:100%; object-fit: cover;">
+    <img id="random-banner-image" alt="ASEAN Biodiversity Dashboard" style="width:100%; object-fit: cover;">
+    // <img id="random-banner-image" alt="ASEAN Biodiversity Dashboard" style="width:100%; height:100%; object-fit: cover;">
     <div class="feature-img-license">
         <div class="feature-img-license-c">
             <span class="icon">
