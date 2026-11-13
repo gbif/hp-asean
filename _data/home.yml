@@ -9,7 +9,7 @@ composition:
     # href: https://dashboard.aseanbiodiversity.org/
   - type: latestPosts
     data: home
-    height: 50vh
+    height: 25vh
 # blueprint_with_video:
   # klass: home_video
   # this is based on the product block
@@ -29,7 +29,7 @@ composition:
 
 main:
   klass: home_main
-  height: 50vh
+  height: 25vh
   # this is based on the hero image block
   # Previous version of search : # document.getElementById("home-search-form").action = "/specimen/search";
   # Random banner from home page by Kit Elloran | Nov. 12, 2026
@@ -152,7 +152,7 @@ main:
     </script>
 
     <div class="feature-img" id="homepage-banner">
-    <img id="random-banner-image" alt="ASEAN Biodiversity Dashboard" style="width:100%; height:75%; object-fit: cover;">
+    <img id="random-banner-image" alt="ASEAN Biodiversity Dashboard" style="width:100%; object-fit: cover;">
     <div class="feature-img-license">
         <div class="feature-img-license-c">
             <span class="icon">
@@ -168,7 +168,7 @@ main:
     </div>
     </div>
 
-    <div class="feature-content" style="width:100%; height:75%;">
+    <div class="feature-content" style="width:100%;">
         <h2 class="home-feature-title">ASEAN Biodiversity Dashboard</h2>
         <font size="5">ASEAN Species Collections</font><br>
         <br>
