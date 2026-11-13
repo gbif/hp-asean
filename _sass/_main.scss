@@ -7,7 +7,9 @@ $navbar-breakpoint: 1150px;
 
 @import "theme/_main";
 
-$dark-bg: #272C33;
+$dark-bg: #FFFFFF;
+
+//$dark-bg: #272C33;
 
 // You can add additional styling here
 .navbar-item.navbar-logo {
@@ -40,11 +42,12 @@ body {
 /* Main content area */
 main,
 .main-content,
-.container {
-    /*background-color: #EDF3F3;*/
-	background-color: #FFFFFF;
-}
 
+/*
+.container {
+    background-color: #EDF3F3;
+}
+*/
 /* Reduce unnecessary vertical spacing */
 main {
     padding-top: -15px;
