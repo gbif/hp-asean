@@ -23,6 +23,13 @@ $dark-bg: #FFFFFF;
   margin: 0 auto;
 }
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 //$dark-bg: #272C33;
 //Template
 body, button, input, select, textarea {
