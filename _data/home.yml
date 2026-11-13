@@ -6,7 +6,7 @@ composition:
     # href: https://dashboard.aseanbiodiversity.org/
   - type: latestPosts
     data: home
-    height: 25vh
+    height: 50vh
 # blueprint_with_video:
   # klass: home_video
   # this is based on the product block
@@ -26,7 +26,7 @@ composition:
 
 main:
   klass: home_main
-  height: 25vh
+  height: 50vh
   # this is based on the hero image block
   # Previous version of search : # document.getElementById("home-search-form").action = "/specimen/search";
   # Random banner from home page by Kit Elloran | Nov. 12, 2026
@@ -149,7 +149,7 @@ main:
     </script>
 
     <div class="feature-img" id="homepage-banner">
-    <img id="random-banner-image" alt="ASEAN Biodiversity Dashboard" style="width:100%; object-fit:cover;">
+    <img id="random-banner-image" alt="ASEAN Biodiversity Dashboard" style="width:100%; height="75%"; object-fit:cover;">
     <div class="feature-img-license">
         <div class="feature-img-license-c">
             <span class="icon">
@@ -172,22 +172,15 @@ main:
         <div class="home-search-wrapper">
             <div class="home-search">
                 <div class="home-tabs">
-                    <div class="button is-primary" id="home-tab-specimens"
-                         onclick="switchToSpecimens()">
+                    <div class="button is-primary" id="home-tab-specimens" onclick="switchToSpecimens()">
                         <span>Search species</span>
                     </div>
-                    <div class="button" id="home-tab-institutions"
-                         onclick="switchToInstitutions()">
+                    <div class="button" id="home-tab-institutions" onclick="switchToInstitutions()">
                         <span>Search institutions</span>
                     </div>
                 </div>
                 <form id="home-search-form" action="/occurrence/search" method="GET">
-                    <input type="search"
-                           name="q"
-                           id="home-search-input"
-                           value=""
-                           autocomplete="On"
-                           placeholder="e.g. Scientific names, common names, countries">
+                    <input type="search" name="q" id="home-search-input" value="" autocomplete="On" placeholder="e.g. Scientific names, common names, countries">
                     <button type="submit">Search</button>
                 </form>
             </div>
@@ -214,8 +207,8 @@ stats:
       description: ASEAN Institutions
       background: assets/icons/museum.png
       href: /institution/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=TL&country=VN
-    # - title: <span>2,648</span>
-      # description: Protected Areas
+    # - title: <span>71</span>
+      # description: ASEAN Heritage Parks
       # background: assets/icons/Icon_protected-areas.png
       # href: 
     - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
