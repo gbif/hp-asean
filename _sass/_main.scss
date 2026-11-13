@@ -14,6 +14,17 @@ $navbar-breakpoint: 1150px;
 
 $dark-bg: #FFFFFF;
 
+/* Container layout */
+.contact-grid {
+  display: grid;
+  /* Automatically fits as many columns as possible (min 280px wide) */
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 24px;
+  padding: 32px 0;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 //$dark-bg: #272C33;
 
 //Se define el tipo de letra para el sitio
