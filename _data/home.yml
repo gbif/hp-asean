@@ -29,8 +29,65 @@ main:
   height: 25vh
   # this is based on the hero image block
   # Previous version of search : # document.getElementById("home-search-form").action = "/specimen/search";
+  # Random banner from home page by Kit Elloran | Nov. 12, 2026
   markdownContent: |
     <script>
+    (function () {
+    const bannerFolder = "/assets/images/";
+    const bannerFiles = [
+        "Myat Zaw Hein_Parental Love.jpg",
+        "Pang Kok Wei_Rhombodera basalis known as Malaysian shield mantis 2.jpg",
+        "Pang Kok Wei_The Elegant Mantises.jpg",
+        "Indra hadiyana_Varanus salvator.jpg",
+        "Erick Navarro_A Fight To Survive.png",
+        "Daniel Ocampo_Resting Sea turtle.jpg",
+        "Ho Phooi Leng_I believe I can fly.jpg",
+        "Ho Phooi Leng_I will follow you.jpg",
+        "Indra hadiyana_Bekantan.jpg",
+        "Indra hadiyana_Polypedates otilophus.jpg",
+        "Indra hadiyana_Varanus salvator.jpg",
+        "Jerian Dale Figueroa_Wild ride.jpg",
+        "Thin Thin Tun_Insect 6.jpg",
+        "Abdelnasser K. Aming_Kulisih.jpg",
+        "Ari Kustiawan_Coconut Rhinoceros Beetle.jpg",
+        "Arturo De Vera Jr_Monfort Bat Sanctuary.jpg",
+        "Aung Chan Thar_Together.jpg",
+        "Aung Pyii Zone_Sunbird family.jpg",
+        "Daniel Ocampo_Clownfish Mane.jpg",
+        "ERIC CLAIRE T. SELPA_The Mindanao Flying Frog.jpg",
+        "Erick Navarro_A Fight To Survive.png"
+    ];
+    function randomBanner() {
+        const imageElement =
+            document.getElementById("random-banner-image");
+        if (!imageElement || bannerFiles.length === 0) return;
+        const randomIndex =
+            Math.floor(Math.random() * bannerFiles.length);
+        const selectedImage =
+            bannerFolder + bannerFiles[randomIndex];
+        const preloadImage = new Image();
+        preloadImage.onload = function () {
+            imageElement.src = selectedImage;
+        };
+        preloadImage.onerror = function () {
+            console.error(
+                "Banner image not found:",
+                selectedImage
+            );
+        };
+        preloadImage.src = selectedImage;
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener(
+            "DOMContentLoaded",
+            randomBanner
+        );
+    } else {
+        randomBanner();
+    }
+
+    })();
     function switchToSpecimens() {
       document.getElementById("home-search-form").action = "/occurrence/search";
       document.getElementById("home-search-input").placeholder = "e.g. Scientific names, common names, countries";
@@ -91,40 +148,39 @@ main:
     })();
     </script>
 
-    <div class="feature-img">
-        <img src="assets/images/Soe Mg Mg Zaw_Father Love 2.jpg" height="250">
-        <div class="feature-img-license">
-            <div class="feature-img-license-c">
-                <span class="icon"><i class="fa fa-info-circle"></i></span>
-            </div>
-            <div class="feature-img-license-text">
-                <p>Copyright Zooming In on Biodiversity : Soe Mg Mg Zaw</p>
-            </div>
+    <div class="feature-img" id="homepage-banner">
+    <img id="random-banner-image" alt="" style="width:100%; object-fit:cover;">
+    <div class="feature-img-license">
+        <div class="feature-img-license-c">
+            <span class="icon">
+                <i class="fa fa-info-circle"></i>
+            </span>
+        </div>
+
+        <div class="feature-img-license-text">
+            <p id="banner-copyright">
+                Copyright Zooming In on Biodiversity
+            </p>
         </div>
     </div>
-    <div class="feature-content">
+    </div>
+
+    <div class="feature-content" style="width:100%;">
         <h2 class="home-feature-title">ASEAN Biodiversity Dashboard</h2>
         <font size="5">ASEAN Species Collections</font><br>
         <br>
         <div class="home-search-wrapper">
             <div class="home-search">
                 <div class="home-tabs">
-                    <div class="button is-primary" id="home-tab-specimens"
-                         onclick="switchToSpecimens()">
+                    <div class="button is-primary" id="home-tab-specimens" onclick="switchToSpecimens()">
                         <span>Search species</span>
                     </div>
-                    <div class="button" id="home-tab-institutions"
-                         onclick="switchToInstitutions()">
+                    <div class="button" id="home-tab-institutions" onclick="switchToInstitutions()">
                         <span>Search institutions</span>
                     </div>
                 </div>
                 <form id="home-search-form" action="/occurrence/search" method="GET">
-                    <input type="search"
-                           name="q"
-                           id="home-search-input"
-                           value=""
-                           autocomplete="On"
-                           placeholder="e.g. Scientific names, common names, countries">
+                    <input type="search" name="q" id="home-search-input" value="" autocomplete="On" placeholder="e.g. Scientific names, common names, countries">
                     <button type="submit">Search</button>
                 </form>
             </div>
@@ -146,13 +202,13 @@ stats:
       description: ASEAN Countries
       background: assets/icons/asean-bio.png
       href: /occurrence/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=TL&country=VN&view=map
-    - title: <span>270</span>
+    - title: <span>273</span>
     #- title: <span id="iCount" class="ajax-is-loading">Loading</span>
       description: ASEAN Institutions
       background: assets/icons/museum.png
       href: /institution/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=TL&country=VN
-    # - title: <span>2,648</span>
-      # description: Protected Areas
+    # - title: <span>71</span>
+      # description: ASEAN Heritage Parks
       # background: assets/icons/Icon_protected-areas.png
       # href: 
     - title: <span id="imageCount" class="ajax-is-loading">Loading</span>

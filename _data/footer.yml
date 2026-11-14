@@ -18,7 +18,7 @@ columns:
   - name: Tools
     links:  # Can be Markdown
     - text: Integrated Publishing Toolkit IPT
-      href: https://bkmd.aseanbiodiversity.org/ipt
+      href: https://ipt.aseanbiodiversity.org
     - text: Carbon Measurement
       href: https://acb.wri-indonesia.id
     - text: Web Mapping Service

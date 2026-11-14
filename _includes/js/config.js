@@ -1,5 +1,5 @@
 var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
+  baseTheme: 'dark', extendWith: {
     primary: themeStyle.colors.primary
   }
 });
@@ -150,6 +150,17 @@ var siteConfig = {
       "code": "vn",
       "localeCode": "en",
       "label": "Vietnamese",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "tl",
+      "localeCode": "en",
+      "label": "Timor-Leste",
       "default": false,
       "textDirection": "ltr",
       "iso3LetterCode": "eng",
