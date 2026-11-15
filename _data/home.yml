@@ -16,13 +16,13 @@ composition:
       # </iframe>
     # </div>
     
-    <div class="feature-content">
-      <div class="feature-text">
-        <h3 class="feature-title">
-          <p>A Data Sharing Platform to Monitor Biodiversity Trends and Species Occurrence in the ASEAN Region</p>
-        </h3>
-      </div>
-    </div>
+    #<div class="feature-content">
+      #<div class="feature-text">
+        #<h3 class="feature-title">
+          #<p>A Data Sharing Platform to Monitor Biodiversity Trends and Species Occurrence in the ASEAN Region</p>
+        #</h3>
+      #</div>
+    #</div>
 
 main:
   klass: home_main
@@ -149,10 +149,10 @@ main:
     </script>
 
     <div class="feature-img" id="homepage-banner">
-    <img id="random-banner-image" alt="" style="width:100%; object-fit:cover;">
+    <img id="random-banner-image" alt="" style="width:100%; height:75%; object-fit:cover;">
     <div class="feature-img-license">
         <div class="feature-img-license-c">
-            <span class="icon">
+            <span class="icon" style="height:75%;">
                 <i class="fa fa-info-circle"></i>
             </span>
         </div>
