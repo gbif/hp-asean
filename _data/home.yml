@@ -165,11 +165,11 @@ main:
     </div>
     </div>
 
-    <div class="feature-content" style="width:100%;">
+    <div class="feature-content" style="width:100%;" style="height:75%;">
         <h2 class="home-feature-title">ASEAN Biodiversity Dashboard</h2>
         <font size="5">ASEAN Species Collections</font><br>
         <br>
-        <div class="home-search-wrapper">
+        <div class="home-search-wrapper" style="height:75%;">
             <div class="home-search">
                 <div class="home-tabs">
                     <div class="button is-primary" id="home-tab-specimens" onclick="switchToSpecimens()">
