@@ -23,7 +23,7 @@ $dark-bg: #FFFFFF;
   padding: 32px 0;
   max-width: 1200px;
   margin: 0 auto;
-  height:75%;
+  height: 750px;
 }
 
 /* Clear floats after image containers */
@@ -31,7 +31,7 @@ $dark-bg: #FFFFFF;
   content: "";
   clear: both;
   display: table;
-  height:75%;
+  height: 750px;
 }
 
 //$dark-bg: #272C33;
@@ -40,6 +40,7 @@ body, button, input, select, textarea {
   font-family: 'Poppins';
 // font-family: 'Barlow Condensed', sans-serif;
 // font-family: 'Lato', sans-serif;
+  height: 750px;
 }
 
 //Define navigation bar
@@ -72,6 +73,7 @@ body, button, input, select, textarea {
     padding: 15px;
 	//padding: 0px;
     background-origin: content-box;
+	height: 750px;
   }
 }
 
@@ -105,6 +107,7 @@ main {
 /* Ensure content is visible */
 main .container {
     background-color: transparent;
+	height: 750px;
 }
 /* ####### Test home layout ##### */
 /* ####### Test home layout ##### */
