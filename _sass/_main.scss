@@ -326,8 +326,8 @@ Home page styling.
 
   color: rgba(0, 0, 0, 0.45);
   // color: #289422;
-  //height: auto;
-  height: 200px;
+  height: auto; // Code for search lense
+  //height: 200px;
   min-height: calc(100vh - var(--navbar-height));
 
   .feature-content {
@@ -339,11 +339,13 @@ Home page styling.
     font-size: 54px;
     margin-bottom: 25px;
     font-weight: bold;
+	height: 200px; // new added
   }
 
   .home-feature-subtitle {
-    color: lightgray;
-    font-size: 32px;
+    //color: lightgray;
+    color: red;
+	font-size: 32px;
     font-weight: bold;
   }
   
