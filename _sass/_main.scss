@@ -23,7 +23,7 @@ $dark-bg: #FFFFFF;
   padding: 32px 0;
   max-width: 1200px;
   margin: 0 auto;
-  height: 750px;
+  height: 400px;
 }
 
 /* Clear floats after image containers */
@@ -31,7 +31,7 @@ $dark-bg: #FFFFFF;
   content: "";
   clear: both;
   display: table;
-  height: 750px;
+  height: 400px;
 }
 
 //$dark-bg: #272C33;
@@ -73,7 +73,7 @@ body, button, input, select, textarea {
     padding: 15px;
 	//padding: 0px;
     background-origin: content-box;
-	height: 500px;
+	height: 400px;
   }
 }
 
