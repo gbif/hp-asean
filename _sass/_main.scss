@@ -326,7 +326,8 @@ Home page styling.
 
   color: rgba(0, 0, 0, 0.45);
   // color: #289422;
-  height: auto;
+  //height: auto;
+  height: 200px;
   min-height: calc(100vh - var(--navbar-height));
 
   .feature-content {
