@@ -108,7 +108,7 @@ main {
 /* Ensure content is visible */
 main .container {
     background-color: transparent;
-	height: 200px;
+	//height: 200px;
 }
 /* ####### Test home layout ##### */
 /* ####### Test home layout ##### */
@@ -122,13 +122,14 @@ main .container {
     flex: 0 0 300px;
     width: 300px;
     margin: 24px 12px;
+	height: 100px;
   }
 
   .feature-img {
     border-radius: 25%;
     overflow: hidden;
-    height: 300px;
     width: 300px;
+	height: 300px;
   }
 
   .feature-title {
