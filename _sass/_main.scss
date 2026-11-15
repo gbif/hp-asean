@@ -370,6 +370,7 @@ Home page styling.
 
       @media (max-width: 670px) {
         width: 350px;
+		height: 500px;
       }
 
       .home-tabs {
@@ -498,7 +499,7 @@ $btn-color: #ED6307;
     }
     thead{
         tr{
-            background-color: #FFFFFF !important;
+            background-color: #C8C8C8 !important;
             th{
                 color: $text-color !important;
             }
