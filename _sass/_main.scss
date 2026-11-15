@@ -223,12 +223,13 @@ article.feature {
     top: 0;
     bottom: 0;
     width: 100%;
-    height: 100%;
+    height: 100px;
     position: absolute;
     object-fit: cover;
 }
 article, aside, figure, footer, header, hgroup, section {
     display: block;
+	height: 100px;
 }
 /* ### FOR Home Page Cards ### */
 
