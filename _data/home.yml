@@ -157,7 +157,7 @@ main:
             </span>
         </div>
 
-        <div class="feature-img-license-text">
+        <div class="feature-img-license-text" style="height:75%;">
             <p id="banner-copyright">
                 Copyright Zooming In on Biodiversity
             </p>
