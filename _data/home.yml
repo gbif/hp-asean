@@ -1,5 +1,5 @@
-latest:
-  title: Biodiversity Data Mobilisation
+lang-ref: home
+layout: home
 composition:
   - type: blank
     data: home.main
