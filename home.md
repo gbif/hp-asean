@@ -6,7 +6,7 @@ description: The ASEAN Centre for Biodiversity Species Occurrences Collections
 background: /assets/images/Ari Kustiawan_Coconut Rhinoceros Beetle.jpg
 imageLicense: |
   Photo by Ari Kustiawan_Coconut Rhinoceros Beetle
-  height: 80vh
+  height: 25vh
 klass: home
 permalink: /
 composition:
