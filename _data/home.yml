@@ -29,3 +29,197 @@ parallax: true
 ---
 
 [//]: # With close to 815 genera and over 19,500 species, the Leguminosae is the third largest angiosperm family after Asteraceae and Orchidaceae. Legumes are economically important food crops providing highly nutritious sources of protein and micronutrients that can greatly benefit health and livelihoods. Members of the family (beans, lentils, soya beans, chickpeas, etc.) have been domesticated alongside grasses in different areas of the world since the beginnings of agriculture and have played a key role in its early development. Legumes are also uniquely important as fodder and green manure in both temperate and tropical regions, and are used for their wood, tannins, oils and resins, in the manufacture of varnishes, paints, dyes and medicines, and in the horticultural trade. The family is morphologically, physiologically and ecologically exceptionally diverse, representing one of the most spectacular examples of evolutionary diversification in plants. 
+
+main:
+  klass: home_main
+  height: 25vh
+  # this is based on the hero image block
+  # Previous version of search : # document.getElementById("home-search-form").action = "/specimen/search";
+  # Random banner from home page by Kit Elloran | Nov. 12, 2026
+  markdownContent: |
+    <script>
+    (function () {
+    const bannerFolder = "/assets/images/";
+    const bannerFiles = [
+        "Myat Zaw Hein_Parental Love.jpg",
+        "Pang Kok Wei_Rhombodera basalis known as Malaysian shield mantis 2.jpg",
+        "Pang Kok Wei_The Elegant Mantises.jpg",
+        "Indra hadiyana_Varanus salvator.jpg",
+        "Erick Navarro_A Fight To Survive.png",
+        "Daniel Ocampo_Resting Sea turtle.jpg",
+        "Ho Phooi Leng_I believe I can fly.jpg",
+        "Ho Phooi Leng_I will follow you.jpg",
+        "Indra hadiyana_Bekantan.jpg",
+        "Indra hadiyana_Polypedates otilophus.jpg",
+        "Indra hadiyana_Varanus salvator.jpg",
+        "Jerian Dale Figueroa_Wild ride.jpg",
+        "Thin Thin Tun_Insect 6.jpg",
+        "Abdelnasser K. Aming_Kulisih.jpg",
+        "Ari Kustiawan_Coconut Rhinoceros Beetle.jpg",
+        "Arturo De Vera Jr_Monfort Bat Sanctuary.jpg",
+        "Aung Chan Thar_Together.jpg",
+        "Aung Pyii Zone_Sunbird family.jpg",
+        "Daniel Ocampo_Clownfish Mane.jpg",
+        "ERIC CLAIRE T. SELPA_The Mindanao Flying Frog.jpg",
+        "Erick Navarro_A Fight To Survive.png"
+    ];
+    function randomBanner() {
+        const imageElement =
+            document.getElementById("random-banner-image");
+        if (!imageElement || bannerFiles.length === 0) return;
+        const randomIndex =
+            Math.floor(Math.random() * bannerFiles.length);
+        const selectedImage =
+            bannerFolder + bannerFiles[randomIndex];
+        const preloadImage = new Image();
+        preloadImage.onload = function () {
+            imageElement.src = selectedImage;
+        };
+        preloadImage.onerror = function () {
+            console.error(
+                "Banner image not found:",
+                selectedImage
+            );
+        };
+        preloadImage.src = selectedImage;
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener(
+            "DOMContentLoaded",
+            randomBanner
+        );
+    } else {
+        randomBanner();
+    }
+
+    })();
+    function switchToSpecimens() {
+      document.getElementById("home-search-form").action = "/occurrence/search";
+      document.getElementById("home-search-input").placeholder = "e.g. Scientific names, common names, countries";
+      document.getElementById("home-tab-specimens").classList.add("is-primary");
+      document.getElementById("home-tab-institutions").classList.remove("is-primary");
+    }
+
+    function switchToInstitutions() {
+      document.getElementById("home-search-form").action = "/institution/search";
+      document.getElementById("home-search-input").placeholder = "e.g. organisations, museums, academe";
+      document.getElementById("home-tab-institutions").classList.add("is-primary");
+      document.getElementById("home-tab-specimens").classList.remove("is-primary");
+    }
+
+    async function getGBIFCount(params) {
+      const response = await fetch(
+          `https://graphql.gbif.org/graphql?${params}`,
+          // use a 5 second timeout
+          {signal: AbortSignal.timeout(5000)}
+        );
+      const result = await response.json();
+      return result.data;
+    }
+
+    (async function getRecordCount() {
+      // the parameters for both institution count and specimen count requests have been
+      // nabbed from the search pages. GBIF's graphql is not stable and public so we're
+      // at the merci of GBIF and will need to keep these up to date.
+      const institutionParams = new URLSearchParams({
+        "queryId": "1c84363fc177dc850aab74997d133172a3e09af2",
+        "strict": true,
+        "variables": JSON.stringify({
+          "displayOnNHCPortal": true,
+          "country":"GB",
+          "active":true,
+          "limit":0,
+        }),
+      });
+      const specimenParams = new URLSearchParams({
+        "queryId": "605377d28a427710e6009c242a3ddda217188884",
+        "strict": true,
+        "variables": JSON.stringify({
+          "predicate": siteConfig.occurrenceSearch.scope,
+          "size": 0,
+        }),
+      });
+      try {
+        const specimenCount = (await getGBIFCount(specimenParams)).occurrenceSearch.documents.total;
+        const institutionCount = (await getGBIFCount(institutionParams)).institutionSearch.count;
+        document.getElementById("home-feature-subtitle-rcount").textContent = specimenCount.toLocaleString("en");
+        document.getElementById("home-feature-subtitle-icount").textContent = institutionCount;
+        document.getElementById("home-feature-subtitle-nocount").style.display = "none";
+        document.getElementById("home-feature-subtitle-count").style.display = "inline";
+      } catch (error) {
+        // swallow all errors, nom nom nom, but do log
+        console.log(`An error occurred while loading the counts: ${error}`);
+      }
+    })();
+    </script>
+
+    <div class="feature-img" id="homepage-banner">
+    <img id="random-banner-image" alt="" style="width:100%; height:75%; object-fit:cover;">
+    <div class="feature-img-license">
+        <div class="feature-img-license-c">
+            <span class="icon" style="height:75%;">
+                <i class="fa fa-info-circle"></i>
+            </span>
+        </div>
+
+        <div class="feature-img-license-text" style="height:75%;">
+            <p id="banner-copyright">
+                Copyright Zooming In on Biodiversity
+            </p>
+        </div>
+    </div>
+    </div>
+
+    <div class="feature-content" style="width:100%; height:75%;">
+        <h2 class="home-feature-title">ASEAN Biodiversity Dashboard</h2>
+        <font size="5">ASEAN Species Collections</font><br>
+        <br>
+        <div class="home-search-wrapper" style="height:75%;">
+            <div class="home-search">
+                <div class="home-tabs">
+                    <div class="button is-primary" id="home-tab-specimens" onclick="switchToSpecimens()">
+                        <span>Search species</span>
+                    </div>
+                    <div class="button" id="home-tab-institutions" onclick="switchToInstitutions()">
+                        <span>Search institutions</span>
+                    </div>
+                </div>
+                <form id="home-search-form" action="/occurrence/search" method="GET">
+                    <input type="search" name="q" id="home-search-input" value="" autocomplete="On" placeholder="e.g. Scientific names, common names, countries">
+                    <button type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+stats:
+  features:
+      # See script.js > includes :folder
+    - title: <span id="mapCount" class="ajax-is-loading">Loading</span>
+      description: Species occurrence
+      background: assets/icons/occ-bio.png
+      href: /occurrence/search
+    - title: <span id="datasetCount" class="ajax-is-loading">Loading</span>
+      description: Dataset records
+      background: assets/icons/eco-data.png
+      href: /occurrence/search/?view=DATASETS
+    - title: <span>11</span>
+      description: ASEAN Countries
+      background: assets/icons/asean-bio.png
+      href: /occurrence/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=TL&country=VN&view=map
+    - title: <span>273</span>
+    #- title: <span id="iCount" class="ajax-is-loading">Loading</span>
+      description: ASEAN Institutions
+      background: assets/icons/museum.png
+      href: /institution/search?country=BN&country=KH&country=ID&country=LA&country=MY&country=MM&country=PH&country=SG&country=TH&country=TL&country=VN
+    # - title: <span>71</span>
+      # description: ASEAN Heritage Parks
+      # background: assets/icons/Icon_protected-areas.png
+      # href: 
+    - title: <span id="imageCount" class="ajax-is-loading">Loading</span>
+      description: Species with photos
+      background: assets/icons/plant-bio.png
+      href: /occurrence/search/?view=GALLERY
+    - type: dashboard
+      data: examples.dashboard 
