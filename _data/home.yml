@@ -8,7 +8,7 @@ composition:
     data: home
     height: 25vh
 main:
-  klass: home
+  klass: home.main
   #klass: home_main
   height: 25vh
   # this is based on the hero image block
