@@ -1,3 +1,4 @@
+main:
 latest:
   title: Biodiversity Data Mobilisation
 composition:
@@ -7,8 +8,8 @@ composition:
   - type: latestPosts
     data: home
     height: 25vh
-main:
-
+klass: home_main
+height: 25vh
   # this is based on the hero image block
   # Previous version of search : # document.getElementById("home-search-form").action = "/specimen/search";
   # Random banner from home page by Kit Elloran | Nov. 12, 2026
