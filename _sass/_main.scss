@@ -28,12 +28,13 @@ $dark-bg: #FFFFFF;
 */
 
 /* Clear floats after image containers */
+/*
 .row::after {
   content: "";
   clear: both;
   display: table;
-  //height: 100px;
 }
+*/
 
 //$dark-bg: #272C33;
 //Template
