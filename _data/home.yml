@@ -1,13 +1,4 @@
 ---
-latest:
-  title: Biodiversity Data Mobilisation
-composition:
-  #- type: blank
-   # data: home.main
-    # href: https://dashboard.aseanbiodiversity.org/
-  - type: latestPosts
-    data: home
-    height: 25vh
 # blueprint_with_video:
   # klass: home_video
   # this is based on the product block
@@ -27,30 +18,18 @@ composition:
 
 lang-ref: home
 layout: home
-title: Legume Data Portal
-description: Learn and discover data about the biology, diversity and evolution of this fascinating family of flowering plants
+title: Biodiversity Data Mobilisation
 #background: /assets/images/Enterolobium_cyclocarpum_42323408.jpeg
 #imageLicense: |
  # *Enterolobium cyclocarpum* (Jacq.) Griseb. Photo by Eric van den Berghe via [iNaturalist](https://www.gbif.org/occurrence/2609325904)
-height: 80vh
-cta:
-  - text: Occurrence Data
-    href: /occurrence/search?view=MAP
-    #isPrimary: true
-  - text: Taxonomy
-    href: /taxonomy/species-list
-  - text: Phylogeny
-    href: /phylogeny/explore/
-  - text: About
-    href: /about
-    isPrimary: true
-permalink: /
+
 composition:
   - type: heroImage # the block type
-  - data: home.stats
+  - data: home
     type: stats
+    height: 80vh
   - type: latestPosts
-    data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
+    #data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
 parallax: true
 ---
 
